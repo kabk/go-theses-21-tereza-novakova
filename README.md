@@ -1,6 +1,6 @@
 # UNdesigning the Self
 
-## Narrator’s prologue
+### Narrator’s prologue
 
 My name is Tereza,
 there is no information hidden in this sentence.
@@ -42,14 +42,14 @@ that’s enough for now!
 ### Table of Contents
 
 0. [Anotation](about:blank#Anotation)
-1. [I, as a selfless human. To what extent can one express the subjectivity objectively?](about:blank#I, as a selfless human)
+1. [I, as a selfless human. To what extent can one express the subjectivity objectively?](about:blank#I,)
     1. [Selfishness](about:blank##Selfishness)
-    2. [Living statue](about:blank##Living statue)
+    2. [Living statue](about:blank##Living)
     3. [Manifesto](about:blank##Manifesto)    
-    4. [< >](about:blank##< >)  
-    5. [I am not](about:blank##I am not)  
-    6. [Half-female, half-animal](about:blank##Half-female, half-animal)  
-2. [We are never alone with our Selves. Hi Jung, how did I meet your Pleroma?](about:blank#We are never alone with our Selves)
+    4. [< >](about:blank##<)  
+    5. [I am not](about:blank##I)  
+    6. [Half-female, half-animal](about:blank##Half-female,)  
+2. [We are never alone with our Selves. Hi Jung, how did I meet your Pleroma?](about:blank#We)
     1. [One](about:blank##One)
     2. [Wholeness](about:blank##Wholeness)
     3. [Significances](about:blank##Significances)
@@ -59,26 +59,26 @@ that’s enough for now!
     2. [Acceptance](about:blank##Acceptance)
     3. [Automatization](about:blank##Automatization)    
     4. [Together](about:blank##Together)  
-4. [Narcissism and social media. In what way does online voyeurism change the perception of our Selves?](about:blank#nNarcissism and social media)
+4. [Narcissism and social media. In what way does online voyeurism change the perception of our Selves?](about:blank#nNarcissism)
     1. [Narrated](about:blank##Narrated)
-    2. [Next story](about:blank##Next story)
-    3. [Online transformation](about:blank##Online transformation)    
-    4. [Online accomplishment](about:blank##Online accomplishment)
-    5. [The new voyeurism](about:blank##The new voyeurism)  
-5. [Talking as a compulsive simulation. What does the acknowledgment of one’s Animus mean for social communication?](about:blank#Talking as a compulsive simulation)
+    2. [Next story](about:blank##Next)
+    3. [Online transformation](about:blank##Online)    
+    4. [ONline accomplishment](about:blank##ONline)
+    5. [The new voyeurism](about:blank##The)  
+5. [Talking as a compulsive simulation. What does the acknowledgment of one’s Animus mean for social communication?](about:blank#Talking)
     1. [Emptiness](about:blank##Emptiness)
-    2. [The society doom](about:blank##The society doom)
+    2. [The society doom](about:blank##The)
     3. [Nothingness](about:blank##Nothingness)    
-6. [Existence becomes design. Does one even need to seek one’s own distinctive identity?](about:blank#Existence becomes design)
+6. [Existence becomes design. Does one even need to seek one’s own distinctive identity?](about:blank#Existence)
     1. [Privacy](about:blank##Privacy)
-    2. [Primitive automatization](about:blank##Primitive automatization)
+    2. [Primitive automatization](about:blank##Primitive)
     3. [Nothingness](about:blank##Nothingness)
-7. [Creature Self-design. How the state of individual and society depend on each other?](about:blank#Creature Self-design)
+7. [Creature Self-design. How the state of individual and society depend on each other?](about:blank#Creature)
     1. [Self-cultivation](about:blank##Self-cultivation)
     2. [Conclussion](about:blank##Conclussion)
-8. [What kind of animal are you? What did I find due to my incapability?](about:blank#What kind of animal are you)
-    1. [The circle of my animuses](about:blank##The circle of my animuses)
-    2. [So this is me](about:blank##So this is me)
+8. [What kind of animal are you? What did I find due to my incapability?](about:blank#What)
+    1. [Circle of my animuses](about:blank##Circle of my animuses)
+    2. [So this is me](about:blank##So)
 9. [Sources](about:blank##Sources)
 
 forming, re-forming and de-forming the animus
@@ -92,6 +92,14 @@ Nowadays, we have time and space to deal with the form of ourselves; we live in 
 I base this study on a desire to express myself more genuinely and present a more real version of myself in the world; I was only able to do this via the removal of my narcissistic Ego. The primitive effort to find a balance in simple animal beings, through which I try to seek answers, was my means to me undesigning my Self.
 
 However, I have come to the conclusion that in order to find positive harmony, one needs to find harmony through the whole, which includes the Self and its surroundings. Through my investigation, I have found that the search for Self-harmony is to be an inclusive one, otherwise, it merely becomes the destruction of culture. The search for inclusive harmony leads to knowledge and understanding.
+
+## Table of Contents
+
+Since I value honesty I would like to start with a notification: this is not an academic paper. Enduring this abstract purging was for me a personal path. Even though I tried to be very objective, I cannot help but be highly subjective. It is paradoxical that in the course of study aimed at the suppression of my Self I’ve discovered I more retain a narcissistic perspective. One’s Self is an appliance to express individual inner entity, vice versa a subjective outer society is a consequence of our mutual affect.
+
+Achievement of the harmony in the collective interest would mean completeness of a whole. The draft of this idea of experiment occurred to me a few years ago, back then I was daydreaming about my own disappearance for a year, about formulation of a new identity that I would never reveal to anyone. In general, I was fascinated by how much the society in which we live designs who we are. The core of the old idea is by some means similar to my thesis experiment, in both one has to re-form the Self, however, in this case, the attempts took just a few minutes and within my current surroundings.
+
+The Manifesto is something that came completely spontaneously at the outset of my experimentation to behave according to the Animus, I had to set the rules of my analysis, to be able to practice it within my own restrictions. The experiment actually developed into a form of literary output, that feels like the most natural way to express the abstraction of my findings. To be able to truly achieve the desired catharsis I had to first think in my mother language Czech, therefore I have decided to keep both language versions. I wonder if my personal approach could be at least partly universal.
 
 **30 April 1865 in Neuwaldegg (Austria) in a well-to-do family**. He was also known as the *'Herodotus of Anarchy'*,
 [his enormous collection of archives and printed materials](http://www.iisg.nl/archives/en/files/n/10765475.php)
