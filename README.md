@@ -467,11 +467,11 @@ Therefore, I think it would be wrong to say that Narcissus is uninterested in o
 ## The new voyeurism
 Constant Online attention grows in a load of enduring structureless fragments, by carrying messages about ourselves to others, we become indispensable, self-centered, and egoistic.
 
-	As a narcissistic society that is able to acknowledge quite a specific image of a unified whole, we are “forced” to take an interest in multi-media. In turn, it generates a universal narcissistic fascination with Voyeurism. ‘Voyeurism has traditionally meant the pleasure of secretly crossing the borders of a foreign territory, looking through a slit into the secret of another. However, in today’s Information era, Voyeurism is becoming an accepted universal standard.’ [18]
+As a narcissistic society that is able to acknowledge quite a specific image of a unified whole, we are “forced” to take an interest in multi-media. In turn, it generates a universal narcissistic fascination with Voyeurism. ‘Voyeurism has traditionally meant the pleasure of secretly crossing the borders of a foreign territory, looking through a slit into the secret of another. However, in today’s Information era, Voyeurism is becoming an accepted universal standard.’ [18]
 
 Voyeurism alleviates the weight of perception on the self, that brings us safe pleasure - we need to see but mainly to be seen, we find delight in online comparisons. ‘What is unique about digital narcissism is not the mechanism of narcissism itself, but a kind of megaphone effect with increased opportunities for pursuing narcissistic goals, if not also a competitive pressure to be seen and heard in a vast ocean of social media noise.’[19]
 
-  Thus the unknown has lost its delightful scent, its pheromones or musk. The unknown was completely revealed, the new Voyeurism set a new trend of known unknown. Vaclaj Hajek states in his essay Orgies of narcissism, self, super-face, visual self-righteous, ‘it is more interesting for us to focus on facts on self-reflection, self-esteem and self-presentation…The previously hidden unknown stands before us in its nudity and at the same time frightening, which no longer attracts or seduces us.’ [18]
+Thus the unknown has lost its delightful scent, its pheromones or musk. The unknown was completely revealed, the new Voyeurism set a new trend of known unknown. Vaclaj Hajek states in his essay Orgies of narcissism, self, super-face, visual self-righteous, ‘it is more interesting for us to focus on facts on self-reflection, self-esteem and self-presentation…The previously hidden unknown stands before us in its nudity and at the same time frightening, which no longer attracts or seduces us.’ [18]
 
 # Talking as a compulsive simulation. *'What does the acknowledgment of one’s Animus mean for social communication?'*
 
@@ -569,11 +569,11 @@ Analyzing emptiness is more pleasant than experiencing it, I am not myself, nor
 img
 
 # Sources
-[1] Rogers, Carl R. “On Becoming a Person: A Therapist’s View of Psychotherapy.” EnglishView all editions and formats, 1956.
-[2] Gerritzen Mieke “HELP YOUR SELF! The Rise of Self-Design.” 2020.
-[3] Definition of catharsis from the Cambridge Advanced Learner’s Dictionary & Thesaurus © Cambridge University Press.
-[4] Lilian M. C. Randall  “The Snail in Gothic Marginal Warfare.” 1962.
-[5] Charles Robert Darwin “On the origin of spieces.”, 1859.
+**[1]** Rogers, Carl R. “On Becoming a Person: A Therapist’s View of Psychotherapy.” EnglishView all editions and formats, 1956.
+**[2]** Gerritzen Mieke “HELP YOUR SELF! The Rise of Self-Design.” 2020.
+**[3]** Definition of catharsis from the Cambridge Advanced Learner’s Dictionary & Thesaurus © Cambridge University Press.
+**[4]** Lilian M. C. Randall  “The Snail in Gothic Marginal Warfare.” 1962.
+**[5]** Charles Robert Darwin “On the origin of spieces.”, 1859.
 “I believe that animals have descended from at
 most four or five progenitors, and plants from an equal or
 lesser number… analogy would led me one step further,
@@ -582,44 +582,42 @@ descended from some one prototype… probably all the
 organic beings which have ever lived on this earth have
 descended from some one primordial form, into which life
 was first breathed”  (Darwin 1859, p. 364).
-[6] René Descartes “Animals are automata.” 1874.
+**[6]** René Descartes “Animals are automata.” 1874.
 who have a soul and can think and speak rationally, and all other animals, who are mere automatons.[6]
-[7] Ayala, Francisco Jose. “Evolution | Definition, History, Types, & Examples.” Encyclopedia Britannica, 20 Nov. 2020, www.britannica.com/science/evolution-scientific-theory.
+**[7]** Ayala, Francisco Jose. “Evolution | Definition, History, Types, & Examples.” Encyclopedia Britannica, 20 Nov. 2020, www.britannica.com/science/evolution-scientific-theory.
 At present we aware of more than two million known species, which are widely diverse in size, shape, and way of life, as well as in the DNA sequences that contain their genetic information.[7]
-[8] Carl Jung “Researches into the Phenomenology of the Self.” 1951.
-[9] The Society of Analytical Pyschology. “Jung’s Model of the Psyche.” Society of Analytical Psychology, 26 May 2017, www.thesap.org.uk/resources/articles-on-jungian-psychology-2/carl-gustav-jung/jungs-model-psyche/#:%7E:text=Jung%20maintained%20that%20the%20psyche,as%20he%20called%20it%2C%20individuation.
-[10] Murray Stein “Jung’s Map of the Soul: An Introduction.” 1998.
-[11] Carl Jung “Seven Sermons to the Dead.” 1916.
-[12] Collins English Dictionary. Copyright © HarperCollins Publishers
-[13] Musil, Robert. “The Man Without Qualities.” 1943.
-[14] Camus, Albert.  “The Stranger.” 1942.
-[15] Kafka, Franz. “The Metamorphosis.” 1930.
-[16] Groys, Boris. “Self-Design, or Productive Narcissism.” Architecture - e-Flux, 22 Sept. 2016, www.e-flux.com/architecture/superhumanity/66967/self-design-or-productive-narcissism.
-[17] Richardson, Kathleen. “Online Interaction Ritual:Face-to-Facebook” 2009.
-[18] Hájek, Václav. “Orgie Narcismu. Selfie, Super-Face, Vizuální Samohana.” Poli5, 2015, www.polipet.cz/zapisnik/vaclav-hajek-orgie-narcismu-selfie-super-face-vizualni-samohana.
-[19] Faucher, Kane. “Alienation 2.0 – Symptoms of Narcissism and Aggression.” Social Capital Online, University of Westminster Press, 2018.
-[20] Robins, Robert Henry. “Language - Language and Culture.” Encyclopedia Britannica, 2020, www.britannica.com/topic/language/Language-and-culture.
-[21] Hara, Kenya. White. 1st ed., Lars Muller, 2007.
-[23] Goffman, Erving. The Presentation of Self in Everyday Life. 1st ed., Anchor, 1959.
-[24] Seto, Elizabeth. “When Will I Be Me? Why a Sense of Authenticity Takes Its Time.” Aeon, 8 Dec. 2020, aeon.co/ideas/when-will-i-be-me-why-a-sense-of-authenticity-takes-its-time.
-[25] Those who make the most noise is a proverb that means those with the least knowledge and least talent are the ones who often speak the loudest and the most
-[26] Gerritzen Mieke “HELP YOUR SELF! The Rise of Self-Design.” 2020.
-[27] Groys, Boris. “The Obligation to Self-Design.” Journal #0 - e-Flux, 2008, www.e-flux.com/journal/00/68457/the-obligation-to-self-design.
-[28] Haraway, Donna J. “Staying with the Trouble.” 2016.
-[29] Meerloo, Joost. The Rape of the Mind: The Psychology of Thought Control, Menticide, and Brainwashing. Martino Fine Books, 2015.
-[30] Denning, Tim.  “Social Media Is a Computer Game for Adults.” Juli 2019, https://medium.com/the-ascent/social-media-is-a-computer-game-for-adults-41bc93bf406d.
-[31] D. Seeley, Thomas, and Paul W. Sherman. “Animal Behaviour - Character Mapping.” Encyclopedia Britannica, 2019, www.britannica.com/science/animal-behavior/Character-mapping.
-[33] Singer, Peter. “Ethics - Problems of Divine Origin.” Encyclopedia Britannica, 2020, www.britannica.com/topic/ethics-philosophy/Problems-of-divine-origin#ref28138.
+**[8]** Carl Jung “Researches into the Phenomenology of the Self.” 1951.
+**[9]** The Society of Analytical Pyschology. “Jung’s Model of the Psyche.” Society of Analytical Psychology, 26 May 2017, www.thesap.org.uk/resources/articles-on-jungian-psychology-2/carl-gustav-jung/jungs-model-psyche/#:%7E:text=Jung%20maintained%20that%20the%20psyche,as%20he%20called%20it%2C%20individuation.
+**[10]** Murray Stein “Jung’s Map of the Soul: An Introduction.” 1998.
+**[11]** Carl Jung “Seven Sermons to the Dead.” 1916.
+**[12]** Collins English Dictionary. Copyright © HarperCollins Publishers
+**[13]** Musil, Robert. “The Man Without Qualities.” 1943.
+**[14]** Camus, Albert.  “The Stranger.” 1942.
+**[15]** Kafka, Franz. “The Metamorphosis.” 1930.
+**[16]** Groys, Boris. “Self-Design, or Productive Narcissism.” Architecture - e-Flux, 22 Sept. 2016, www.e-flux.com/architecture/superhumanity/66967/self-design-or-productive-narcissism.
+**[17]** Richardson, Kathleen. “Online Interaction Ritual:Face-to-Facebook” 2009.
+**[18]** Hájek, Václav. “Orgie Narcismu. Selfie, Super-Face, Vizuální Samohana.” Poli5, 2015, www.polipet.cz/zapisnik/vaclav-hajek-orgie-narcismu-selfie-super-face-vizualni-samohana.
+**[19]** Faucher, Kane. “Alienation 2.0 – Symptoms of Narcissism and Aggression.” Social Capital Online, University of Westminster Press, 2018.
+**[20]** Robins, Robert Henry. “Language - Language and Culture.” Encyclopedia Britannica, 2020, www.britannica.com/topic/language/Language-and-culture.
+**[21]** Hara, Kenya. White. 1st ed., Lars Muller, 2007.
+**[23]** Goffman, Erving. The Presentation of Self in Everyday Life. 1st ed., Anchor, 1959.
+**[24]** Seto, Elizabeth. “When Will I Be Me? Why a Sense of Authenticity Takes Its Time.” Aeon, 8 Dec. 2020, aeon.co/ideas/when-will-i-be-me-why-a-sense-of-authenticity-takes-its-time.
+**[25]** Those who make the most noise is a proverb that means those with the least knowledge and least talent are the ones who often speak the loudest and the most
+**[26]** Gerritzen Mieke “HELP YOUR SELF! The Rise of Self-Design.” 2020.
+**[27]** Groys, Boris. “The Obligation to Self-Design.” Journal #0 - e-Flux, 2008, www.e-flux.com/journal/00/68457/the-obligation-to-self-design.
+**[28]** Haraway, Donna J. “Staying with the Trouble.” 2016.
+**[29]** Meerloo, Joost. The Rape of the Mind: The Psychology of Thought Control, Menticide, and Brainwashing. Martino Fine Books, 2015.
+**[30]** Denning, Tim.  “Social Media Is a Computer Game for Adults.” Juli 2019, https://medium.com/the-ascent/social-media-is-a-computer-game-for-adults-41bc93bf406d.
+**[31]** D. Seeley, Thomas, and Paul W. Sherman. “Animal Behaviour - Character Mapping.” Encyclopedia Britannica, 2019, www.britannica.com/science/animal-behavior/Character-mapping.
+**[33]** Singer, Peter. “Ethics - Problems of Divine Origin.” Encyclopedia Britannica, 2020, www.britannica.com/topic/ethics-philosophy/Problems-of-divine-origin#ref28138.
 
-[i1] Medievalmargins. “The Knight Battling the Snail.” Medieval Margins, 7 Dec. 2015, medievalmargins.tumblr.com/post/134675246808/the-knight-battling-the-snail.
-[i2] Zell, Jannis. “@janniszell.” Instagram, 2020, www.instagram.com/accounts/login/?hl=en.
-[i3] Eduard Ovcacek. “Abstract Study.” Invaluable.Com, 1962, www.invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88.
-Source: [http://www.iisg.nl/](http://invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88)
-[i4] google images
-
+**[i1]** Medievalmargins. “The Knight Battling the Snail.” Medieval Margins, 7 Dec. 2015, medievalmargins.tumblr.com/post/134675246808/the-knight-battling-the-snail.
+**[i2]** [Zell, Jannis. “@janniszell.” Instagram, 2020](http://instagram.com/accounts/login/?hl=en)
+**[i3]** [Eduard Ovcacek. “Abstract Study.” Invaluable.Com, 1962,](http://invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88)
+**[i4]** google images
 
 
 
-**30 April 1865 in Neuwaldegg (Austria) in a well-to-do family**.
+
 [his enormous collection of archives and printed materials](http://www.iisg.nl/archives/en/files/n/10765475.php)
 Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
