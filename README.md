@@ -87,7 +87,7 @@ that’s enough for now!
     2. [So this is me](about:blank##So)
 9. [Sources](about:blank##Sources)
 
-![1.0 THE THESIS STRUCTURE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/8,9.png?raw=true)
+![1.0 THE THESIS STRUCTURE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/8,9.png?raw=true)
 
 # Anotation
 
@@ -208,7 +208,7 @@ like a stranger in my body.
 This is an unpleasant perspective,
 to see inside what is hiding from me.
 ## < >
-![1.3 THE CATHARSIS OF SELF IN 3D](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/16.png?raw=true)
+![1.3 THE CATHARSIS OF SELF IN 3D](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/16.png?raw=true)
 
 When I finished the previous page my heart totally ached. At the beginning, one can see that participation in the experiment seems impossible, too many thoughts kept me to feel like a living statue, although experiment(1) was one of my first attempts I was hardly able to stay Self-free. It almost seems like a procedure, one has to train it, develop an approach to study the inner Animus. A few times I had to interrupt and accept it as a trial. To have some kind of consistency I determined it as a narrated progress of the analysis of one’s traits, of the deeply animalistic features, the ones I cannot get rid of.
 
@@ -326,7 +326,7 @@ Two anatomically and culturally defined characters. The wisdom of nature endows 
 
 The fight constitutes an idea of the inner confrontation with one’s natural traits or something that the society has established. Thus it’s quite polemic to say who is stronger, it appears like the knight is losing or at least cowering in terror. They are both aware of the advantage of having natural armour. To such a degree I deal with my own Slug, recognition of its strongnes/weakness guides me to separate features into categories.
 
-![A snail?(i1)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/23.png?raw=true)
+![A snail?(i1)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/23.png?raw=true)
 
 
 # We are never alone with our Selves. *'Hi Jung, how did I meet your Pleroma?'*
@@ -339,7 +339,7 @@ J: ‘About 3.5 billion years ago life has originated in the form of primordial,
 T: In other words, the animals cannot articulate thoughts to one other, they have a different kind of soul, purely mechanistic in essence. However, I’m one and one is me, I sense the presence of an animal inside.
 
 J: As the civilization evolved in specific species with determined presumptions, one also went through the progression of one’s Self. Personas as identities, make us different from animals, humans acquire various kinds of them, however, animals have only one identity, unchanging.
-![2.0 ARISTOTELIAN GRADATION OF THE SOUL](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/26.png?raw=true)
+![2.0 ARISTOTELIAN GRADATION OF THE SOUL](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/26.png?raw=true)
 ## Wholeness
 T: If one wants to be freed of something, one has to identify what to get rid of. In your book Aion - Researches into the Phenomenology of the Self, you declared if anyone wants to achieve ‘the complexity of cognition, not only intellectually, but also according to its feeling-value, must for better or worst come to grips with the Anima/Animus problem in order to open the way for a high union of opposites.’ [8]
 
@@ -350,7 +350,7 @@ T: So the term wholeness is equivalent to the Self?
 J: Wholeness results from Self consciousness. We are continually generating more material to integrate into Psyche, which makes it difficult to achieve any balance. ‘At first sight, wholeness seemed to be nothing but an abstract idea, it is nevertheless empirical in so far as it is anticipated by the psyche in the form of spontaneous or autonomous symbols.’ [8]
 
 The concept of the psyche is broken down as follows:
-![2.1 JUNG’S MODEL OF THE PSYCHE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/27.png?raw=true)
+![2.1 JUNG’S MODEL OF THE PSYCHE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/27.png?raw=true)
 ## Significances
 T: I’m particularly interested in how the 4 significances..persona, ego, shadows and animus, are connected.
 
@@ -382,7 +382,7 @@ J: Individuation differs for the opposite sex, beginning with mother and father.
 
 T: I understand you are influenced by the gender-based thinking of your time, however, I find this part quite controversial, and I cannot identify myself with this gender-oriented study, so forth I will be using just the word Animus for the rest of my Thesis, and I omit the masculine and feminine aspects.
 ## Pleroma
-![2.2THE PATH OF PLEROMA](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/30.png?raw=true)
+![2.2THE PATH OF PLEROMA](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/30.png?raw=true)
 T: You describe the theory about Nothingness in relation to Fullness in your book Seven Sermons to the Dead; it seems to be absolutely essential for my observation, can you explain it?
 
 J: ‘I begin with nothingness. Nothingness is the same as Fullness. In infinity full is no better than empty. Nothingness is both empty and full. A thing that is infinite and eternal hath no qualities, since it hath all qualities.’ [11]
@@ -429,7 +429,7 @@ Well known Gregor Samsa [j] went through metamorphic-like transformation into an
 
 # Narcissism and social media. *'In what way does online voyeurism change the perception of our Selves?'*
 ## Narrated
-![4.2 Natrration of online self permeates to one’s persona](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/41.png?raw=true)
+![4.2 Natrration of online self permeates to one’s persona](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/41.png?raw=true)
 ## Next story
 Living in 21st-century in post-informative multi-media times, we are becoming the narrators of our Online-Selves. Current technologies along their metaphorical personalities are built and subsequently shaped by us, on that, we are being retroactively formed back, endlessly reflecting each other. With no surprise the technology affects us as if it had a complex of inadequacies, we chrome its self-confidence and evoke the beauty in the user.
 -> next
@@ -455,12 +455,12 @@ Anthropologist Kathleen Richardson states that enacted proxies of our real selve
 Multi-media has provided one with the means to [re]make, [re]define, [re]present oneself online. Consequently, the problematic moment arises within the consciousness of one’s online Egos. The online Self ethics seem to differ from our real world ethics. Suddenly the world appears to us only how we would love to maintain it, and this causes pain, despair, and hope. The absolute presence of every day, us who put out of countenance each other, the invasion of constant information, suddenly we are looking for the natural way of human desire for a fuller feeling of life and finding its meaning.
 -> next
 ## Online transformation
-![4.3 THE TRANFORMATION OF ONLINE SELF](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/44.png?raw=true)
-![4.4 AFFECT OF MULTI-MEDIA ON SELF](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/45.png?raw=true)
+![4.3 THE TRANFORMATION OF ONLINE SELF](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/44.png?raw=true)
+![4.4 AFFECT OF MULTI-MEDIA ON SELF](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/45.png?raw=true)
 ## On line accomplishment
 What is the Online-self trying to accomplish by generating the dream to be admired behind every corner? Aiming for thousands of likes and infinitive views, by producing material that no one can remember.
 
-![4.5 RECOGNITION OF OTHER SELVES](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/46.png?raw=true)
+![4.5 RECOGNITION OF OTHER SELVES](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/46.png?raw=true)
 
 What is the Online-self trying to accomplish by copying the patches of others, hence setting the trends? The speed of spreading the information is so fast, the first resistance to unusualities turns into an affected assumption in a second. Dominating stupidity and its repetition cause unconventional thus blind support.
 
@@ -470,7 +470,7 @@ One sits wherever around the world by the small or big screen, as the one used t
 What is the Online-self trying to accomplish by daily following others’ life achievements?
 The quantity, that arouses desires in one, makes one possessive, jealous, anxious, as a consequence of daily feed one allows emotional disturbance, blocks one’s own growth.
 
-![4.6 MUTTUAL AFFECT OF THE SELVES](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/47.png?raw=true)
+![4.6 MUTTUAL AFFECT OF THE SELVES](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/47.png?raw=true)
 
 What is the Online-self trying to accomplish by depriving the privacy of other’s personas including one’s own? The animus is the only part of our personas that remain uncontaminated. By extracting one’s narcissistic Egos back, one could for once act as a spectator, not as an actor.
 
@@ -507,13 +507,13 @@ Immediately when we turn ourselves to the invisibility of our own subject, we be
 WHEN YOU BREED, YOU WANT NOTHING - BUT YOU WANT SOMETHING. YOU WANT SOMETHING WHILE YOU WANT NOTHING. YOU DESIRE FOR NOTHING, BUT AT THE SAME TIME LOOKING FOR SOMETHING THAT MAKES YOUR DESIRE. YOU DESIRE A DESIRE THAT MAKES YOU DESIRE SOMETHING.
 Leo Tolstoi
 ## Nothingness
-![Jannis Zell](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/z.jpg?raw=true)
+![Jannis Zell](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/z.jpg?raw=true)
 Jannis Zell, 2020
 Silicon Sculpture in the Dark
 Silicon and acrylic on canvas, 60x70cm
 [i1]
 
-![Jannis Zell](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/o.jpg?raw=true)
+![Jannis Zell](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/o.jpg?raw=true)
 Eduard Ovcacek, 1962
 Abstract study
 Limited edition screen print, 12ins x 9.25ins
@@ -542,7 +542,7 @@ One feels a desire to experience oneself as a part of a larger cultural whole. T
 ## Self-cultivation
 The Self has two pedestals to stand on, one representing the Self-cultivation, and the other one representing the social responsibility of Self. We have to stand somewhere between Self-design and being Self-designed by society, striving to find a balance. I believe there are 3 stages in this process.
 
-![5.0 SELF SUFFICENCY](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/62.png?raw=true)
+![5.0 SELF SUFFICENCY](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/62.png?raw=true)
 ## Conclussion
 1
 By placing emphasis on a harmonical connection one can achieve a Positive self-design. The lack of one of those design influxes can cause trauma of the displacement Self.
@@ -560,7 +560,7 @@ Losing one’s Self - in other words impersonating - the process of undesigning 
 # What kind of animal are you? *'What did I find due to my incapability?'*
 
 ## Circle of my animuses
-![6.0 THE CIRCLE OF MY ANIMUS(ES)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/65.png?raw=true)
+![6.0 THE CIRCLE OF MY ANIMUS(ES)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/65.png?raw=true)
 ### Moth
 Able to orientate itself transversely in space only at the bright night, even tho the moon which reflects the light of day is just a dot above it, even tho the celestial glow is only a distant map. Thanks to it, I sit in places where awareness seems clearer.
 
@@ -591,7 +591,7 @@ Although I absorb all perceptions, the formal ones as well as the hidden, unwel
 Analyzing emptiness is more pleasant than experiencing it, I am not myself, nor an animal or any of my Animuses. Because when my Self thinks only of mySelf, nothing happens. Therefore, all I have left is an explanation, quite unplanned conclusion. Perhaps I am a river that flows constantly around the rocks, perhaps I am a fish in it, which enjoyes the softness of the sand, that is carried by the water itself, perhaps I am a bare foot that has impudently entered that exact environment. Either way, I feel, I know that I am an essence, whether alive or not, I am a reflection in the surface into which you unknowingly stare at, the same flat surface, that is my own no-answer. Dead sure I’m my own design.
 
 ## So this is me
-![6.1 THE PATH OF MY ANIMUS(ES) (i4)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/70.png?raw=true)
+![6.1 THE PATH OF MY ANIMUS(ES) (i4)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/70.png?raw=true)
 
 # Sources
 **[1]** Rogers, Carl R. “On Becoming a Person: A Therapist’s View of Psychotherapy.” EnglishView all editions and formats, 1956.
