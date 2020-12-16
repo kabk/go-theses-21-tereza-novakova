@@ -40,6 +40,7 @@ My name is…
 that’s enough for now!
 
 ### Table of Contents
+forming, re-forming and de-forming the animus
 
 0. [Anotation](about:blank#Anotation)
 1. [I, as a selfless human. To what extent can one express the subjectivity objectively?](about:blank#I,)
@@ -63,7 +64,7 @@ that’s enough for now!
     1. [Narrated](about:blank##Narrated)
     2. [Next story](about:blank##Next)
     3. [Online transformation](about:blank##Online)    
-    4. [ONline accomplishment](about:blank##ONline)
+    4. [On line accomplishment](about:blank##On)
     5. [The new voyeurism](about:blank##The)  
 5. [Talking as a compulsive simulation. What does the acknowledgment of one’s Animus mean for social communication?](about:blank#Talking)
     1. [Emptiness](about:blank##Emptiness)
@@ -72,16 +73,14 @@ that’s enough for now!
 6. [Existence becomes design. Does one even need to seek one’s own distinctive identity?](about:blank#Existence)
     1. [Privacy](about:blank##Privacy)
     2. [Primitive automatization](about:blank##Primitive)
-    3. [Nothingness](about:blank##Nothingness)
 7. [Creature Self-design. How the state of individual and society depend on each other?](about:blank#Creature)
     1. [Self-cultivation](about:blank##Self-cultivation)
     2. [Conclussion](about:blank##Conclussion)
 8. [What kind of animal are you? What did I find due to my incapability?](about:blank#What)
-    1. [Circle of my animuses](about:blank##Circle of my animuses)
+    1. [Circle of my animuses](about:blank##Circle)
     2. [So this is me](about:blank##So)
 9. [Sources](about:blank##Sources)
 
-forming, re-forming and de-forming the animus
 
 # Anotation
 
@@ -93,7 +92,8 @@ I base this study on a desire to express myself more genuinely and present a mor
 
 However, I have come to the conclusion that in order to find positive harmony, one needs to find harmony through the whole, which includes the Self and its surroundings. Through my investigation, I have found that the search for Self-harmony is to be an inclusive one, otherwise, it merely becomes the destruction of culture. The search for inclusive harmony leads to knowledge and understanding.
 
-## Table of Contents
+# I, as a selfless human.
+*'To what extent can one express the subjectivity objectively?'*
 
 Since I value honesty I would like to start with a notification: this is not an academic paper. Enduring this abstract purging was for me a personal path. Even though I tried to be very objective, I cannot help but be highly subjective. It is paradoxical that in the course of study aimed at the suppression of my Self I’ve discovered I more retain a narcissistic perspective. One’s Self is an appliance to express individual inner entity, vice versa a subjective outer society is a consequence of our mutual affect.
 
@@ -101,6 +101,70 @@ Achievement of the harmony in the collective interest would mean completeness of
 
 The Manifesto is something that came completely spontaneously at the outset of my experimentation to behave according to the Animus, I had to set the rules of my analysis, to be able to practice it within my own restrictions. The experiment actually developed into a form of literary output, that feels like the most natural way to express the abstraction of my findings. To be able to truly achieve the desired catharsis I had to first think in my mother language Czech, therefore I have decided to keep both language versions. I wonder if my personal approach could be at least partly universal.
 
-**30 April 1865 in Neuwaldegg (Austria) in a well-to-do family**. He was also known as the *'Herodotus of Anarchy'*,
+## Selfishness
+## Living statue
+## Manifesto
+## < >
+## I am not
+## Half-female, half-animal
+
+# We are never alone with our Selves.
+*'Hi Jung, how did I meet your Pleroma?'*
+
+## One
+## Wholeness
+## Significances
+## Pleroma
+
+# Ego-death.
+*'How have the Selfless literary practices been changing the cognition of human essence?'*
+
+## Principles
+## Acceptance
+## Automatization
+## Together
+
+
+# Narcissism and social media.
+*'In what way does online voyeurism change the perception of our Selves?'*
+
+## Narrated
+## Next story
+## Online transformation
+## On line accomplishment
+## The new voyeurism
+
+# Talking as a compulsive simulation.
+*'What does the acknowledgment of one’s Animus mean for social communication?'*
+
+## Emptiness
+## The society doom
+## Nothingness
+
+# Existence becomes design.
+*'Does one even need to seek one’s own distinctive identity?'*
+
+## Privacy
+## Primitive automatization
+
+# Creature Self-design.
+*'How the state of individual and society depend on each other?'*
+
+## Self-cultivation
+## Conclussion
+
+# What kind of animal are you?
+*'What did I find due to my incapability?'*
+
+## Circle of my animuses
+## So this is me
+
+# Sources
+
+
+
+
+
+**30 April 1865 in Neuwaldegg (Austria) in a well-to-do family**.
 [his enormous collection of archives and printed materials](http://www.iisg.nl/archives/en/files/n/10765475.php)
 Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
