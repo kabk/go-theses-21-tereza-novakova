@@ -13,14 +13,14 @@ speaking plainly, I want to tell you a story about the last layer of my psyche
 Anima/Animus stands as the base of all one’s actions, it represents the deepest unconsciousness, basic impulses, general instincts which govern one’s behavior. It is not easy to observe.
 
 My name is Tereza,
-let me guide you through my personal Cathatrsis on the topic of Selflessness. Please notice, being Selfless in this thesis doesn’t necessarily mean caring for others with no expectations, but the narration of one’s empty Self.
+let me guide you through my personal Catharsis on the topic of Selflessness. Please notice, being Selfless in this thesis doesn’t necessarily mean caring for others with no expectations, but the narration of one’s empty Self.
 
 Now you might be asking, why did I become interested in losing my Self? I sincerely felt the urge to turmoil and the selfish pursuit of pleasure so deeply. Please, don’t mistake me for someone who would like to escape nor someone who hates one’s Self. This observation is more about the purification of one’s nature, analysis of the possible Selflessness in 21st century society, and an interest in the ethics of animals which is hidden in all of us.
 
 My name is Tereza,
 correct me if I’m wrong: one is one’s Design. Living in the Era of shared information, Era of multi-social media, one now can (re)-form, (re)-shape, (re)-design, altogether adjust one’s Self; one tries to fit within the parameters of current society.
 
-This Catharsis has materialized into a Magazine full of observations, experiments, short stories, definitions, research, thoughts of others, interviews, and analysis.
+This Catharsis has materiliazed into a Magazine full of observations, experiments, short stories, definitions, research, thoughts of others, interviews, and analysis.
 
 My name is Tereza,
 I like the idea that we are all created from the mother earth, I’m one and one is me, as well as one is anything else on this planet. The influence is mutual. It might be a common fluid state of being that leads us to these thoughts, it might be our own humanly narcissism.
@@ -30,7 +30,7 @@ With what animal one will identify when removes one’s Ego? I want to find ou
 My name is Tereza,
 I’ve constructed The Egoless manifesto, I’m trying to live within the rules, it seems a difficult task. I’m investigating if one’s Nothingness could achieve its Fullness.
 
-According to Jung, the Pleroma is the totality of all opposites. In Christianity, it means to fill up an empty thing or to complete an incomplete thing, else the state of fulness or completion, the fulfillment, the full amount. Is it possible to design one’s own personal subjective Pleroma?
+According to Jung, the Pleroma is the totality of all opposites. In Christianity, it means to fill up an empty thing or to complete an incomplete thing, else the state of fulness or completion, the fulfilment, the full amount. Is it possible to design one’s own personal subjective Pleroma?
 
 My name is Tereza,
 I know I’m repeating myself, however, this is the last time I’m saying it to you. From this moment on, I will try to act as an Egoless person.
@@ -87,6 +87,7 @@ that’s enough for now!
     2. [So this is me](about:blank##So)
 9. [Sources](about:blank##Sources)
 
+![1.0 THE THESIS STRUCTURE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/8,9.png?raw=true)
 
 # Anotation
 
@@ -107,7 +108,7 @@ Achievement of the harmony in the collective interest would mean completeness of
 
 The Manifesto is something that came completely spontaneously at the outset of my experimentation to behave according to the Animus, I had to set the rules of my analysis, to be able to practice it within my own restrictions. The experiment actually developed into a form of literary output, that feels like the most natural way to express the abstraction of my findings. To be able to truly achieve the desired catharsis I had to first think in my mother language Czech, therefore I have decided to keep both language versions. I wonder if my personal approach could be at least partly universal.
 ## Living statue
-Experient(1): 1. 10. 2020 Stokabar
+Experiment(1): 1. 10. 2020 Stokabar
 
 Nothing is futile, nothing is the useless,
 deprived of inspiration, I’m only what was left in me,
@@ -205,16 +206,18 @@ that sincere acceptance of oneself
 like a stranger in my body.
 
 This is an unpleasant perspective,
-to see inside what is hidding from me.
+to see inside what is hiding from me.
 ## < >
+![1.3 THE CATHARSIS OF SELF IN 3D](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/16.png?raw=true)
+
 When I finished the previous page my heart totally ached. At the beginning, one can see that participation in the experiment seems impossible, too many thoughts kept me to feel like a living statue, although experiment(1) was one of my first attempts I was hardly able to stay Self-free. It almost seems like a procedure, one has to train it, develop an approach to study the inner Animus. A few times I had to interrupt and accept it as a trial. To have some kind of consistency I determined it as a narrated progress of the analysis of one’s traits, of the deeply animalistic features, the ones I cannot get rid of.
 
-	If we omit the fact that we have ourselves, we will be left with only our Selves, for this reason its particular narration is quite essential. Dutch graphic designer Mieke Gerritzen in his book Help your Self defined the Self as your ‘personality, motivation, emotional intelligence, self-confidence, fears, habits, cravings, possibilities, lifestyles, sense of humor, political choice, hobbies, and life skills, talents, experiences, values, capacity for empathy, negative thoughts, ability, desires, expectations, self-awareness practice, risk tolerance, and mistakes.’ [2] I want to take into account whether one is even able to give up all of this. What will happen when this all disappears?
+If we omit the fact that we have ourselves, we will be left with only our Selves, for this reason its particular narration is quite essential. Dutch graphic designer Mieke Gerritzen in his book Help your Self defined the Self as your ‘personality, motivation, emotional intelligence, self-confidence, fears, habits, cravings, possibilities, lifestyles, sense of humour, political choice, hobbies, and life skills, talents, experiences, values, capacity for empathy, negative thoughts, ability, desires, expectations, self-awareness practice, risk tolerance, and mistakes.’ [2] I want to take into account whether one is even able to give up all of this. What will happen when this all disappears?
 
-	By releasing a strong emotion at the time of writing, as well as purging the mind of unwanted thoughts, my thesis refers rather to some kind of catharsis or
+By releasing a strong emotion at the time of writing, as well as purging the mind of unwanted thoughts, my thesis refers rather to some kind of catharsis or
 emotional leak. To behave without Self-concern, the ego has to go through a cathartic cleansing or to be completely replaced by a new ego that lost its old Self.
 ## I am not
-Experient(2): 1. 10. 2020 Evening of the POETIC dekance
+Experiment(2): 1. 10. 2020 Evening of the POETIC dekadence
 
 I grew up without any suppression and oppression,
 I became a slug, I am only the food of birds,
@@ -287,8 +290,8 @@ I’m slowly drying out what I was for me.
 
 Fallen, yet supple petals,
 lying on the moss of your cleansing kisses,
-I was dried, altought a lady who was becoming juicier,
-discovered memory of a beetle in a casket, futhermore I was just lying.
+I was dried, although a lady who was becoming juicier,
+discovered memory of a beetle in a casket, furthermore I was just lying.
 
 I think, with my head placed in my palms,
 the head is heavy from the lateral stages of thoughts,
@@ -304,7 +307,7 @@ having a lost Self, I’m just an animal,
 aI’m just my Animus, what was left inside of me,
 I love you all the shapes of my animal Selves,
 what did you not like?
-You enojoy the world, don’t you?
+You enjoy the world, don’t you?
 
 
 As a result, I only have this lousy picture,
@@ -315,13 +318,16 @@ I’m an air of I can’t get a single dose,
 I’m the rain that fell on your face last Tuesday,
 in short, I am not.
 ## Half-female, half-animal
-	Those days when I was taking part in The Experiemnt(2) I felt empty, I found myself in situations when I just couldn’t bear anything else other than the fight with my Animus. With my friends I had organized an Evening of the Poetic Dekadence, not only to share one’s poetry but to rejoice in the written word before the pandemic times start to influence our social life again. Even though I didn’t feel like performing, I shared my findings. It took place in my room in Prague where I’ve stayed during my internship. There has been built a throne for reciters, elevated armchair that was decorated in Decameron style, with a lot of fresh and healthy-looking fruit on a little drapery hanging down.
+Those days when I was taking part in The Experiment(2) I felt empty, I found myself in situations when I just couldn’t bear anything else other than the fight with my Animus. With my friends I had organized an Evening of the Poetic Dekadence, not only to share one’s poetry but to rejoice in the written word before the pandemic times start to influence our social life again. Even though I didn’t feel like performing, I shared my findings. It took place in my room in Prague where I’ve stayed during my internship. There has been built a throne for reciters, elevated armchair that was decorated in Decameron style, with a lot of fresh and healthy-looking fruit on a little drapery hanging down.
 
-	This scenery led me to my memory of old gothic manuscripts from the 13-14th century with margins filled with absurd situations such as the fight against the snail. One cannot exactly know what it actually meant to be, for me its form, as well as the subject matter, somewhat in a loose way merges a closure of chapter one.
+This scenery led me to my memory of old gothic manuscripts from the 13-14th century with margins filled with absurd situations such as the fight against the snail. One cannot exactly know what it actually meant to be, for me its form, as well as the subject matter, somewhat in a loose way merges a closure of chapter one.
 
-	Two anatomically and culturally defined characters. The wisdom of nature endows a creature with natural armour, while a human had to get to the point in the evolution when one had a knowledge of how to make the armour and adopt it. Both armours are used as protection against the outer world. Both creatures are consciously aware of the fact that they could be in danger. It might be just a cartoon or a single sample of medieval humor. In the first serious contemporary study of this odd phenomenon, Lillian Randall wrote, ‘Perhaps the joke is that snails, what with the shells they carry on their backs and can hide away in, are some sort of parody of a highly-armored chivalric foe. We’re supposed to laugh at the idea of a knight being afraid of attacking such a ‘heavily armored’ opponent. Silly knight, it’s just a snail!’ [4]
+Two anatomically and culturally defined characters. The wisdom of nature endows a creature with natural armour, while a human had to get to the point in the evolution when one had a knowledge of how to make the armour and adopt it. Both armours are used as protection against the outer world. Both creatures are consciously aware of the fact that they could be in danger. It might be just a cartoon or a single sample of medieval humour. In the first serious contemporary study of this odd phenomenon, Lillian Randall wrote, ‘Perhaps the joke is that snails, what with the shells they carry on their backs and can hide away in, are some sort of parody of a highly-armoured chivalric foe. We’re supposed to laugh at the idea of a knight being afraid of attacking such a ‘heavily armoured’ opponent. Silly knight, it’s just a snail!’ [4]
 
-	The fight constitutes an idea of the inner confrontation with one’s natural traits or something that the society has established. Thus it’s quite polemic to say who is stronger, it appears like the knight is losing or at least cowering in terror. They are both aware of the advantage of having natural armour. To such a degree I deal with my own Slug, recognition of its strongness/weakness guides me to separate features into categories.
+The fight constitutes an idea of the inner confrontation with one’s natural traits or something that the society has established. Thus it’s quite polemic to say who is stronger, it appears like the knight is losing or at least cowering in terror. They are both aware of the advantage of having natural armour. To such a degree I deal with my own Slug, recognition of its strongnes/weakness guides me to separate features into categories.
+
+![A snail?(i1)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/23.png?raw=true)
+
 
 # We are never alone with our Selves. *'Hi Jung, how did I meet your Pleroma?'*
 
@@ -333,6 +339,7 @@ J: ‘About 3.5 billion years ago life has originated in the form of primordial,
 T: In other words, the animals cannot articulate thoughts to one other, they have a different kind of soul, purely mechanistic in essence. However, I’m one and one is me, I sense the presence of an animal inside.
 
 J: As the civilization evolved in specific species with determined presumptions, one also went through the progression of one’s Self. Personas as identities, make us different from animals, humans acquire various kinds of them, however, animals have only one identity, unchanging.
+![2.0 ARISTOTELIAN GRADATION OF THE SOUL](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/26.png?raw=true)
 ## Wholeness
 T: If one wants to be freed of something, one has to identify what to get rid of. In your book Aion - Researches into the Phenomenology of the Self, you declared if anyone wants to achieve ‘the complexity of cognition, not only intellectually, but also according to its feeling-value, must for better or worst come to grips with the Anima/Animus problem in order to open the way for a high union of opposites.’ [8]
 
@@ -343,12 +350,13 @@ T: So the term wholeness is equivalent to the Self?
 J: Wholeness results from Self consciousness. We are continually generating more material to integrate into Psyche, which makes it difficult to achieve any balance. ‘At first sight, wholeness seemed to be nothing but an abstract idea, it is nevertheless empirical in so far as it is anticipated by the psyche in the form of spontaneous or autonomous symbols.’ [8]
 
 The concept of the psyche is broken down as follows:
+![2.1 JUNG’S MODEL OF THE PSYCHE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/27.png?raw=true)
 ## Significances
 T: I’m particularly interested in how the 4 significances..persona, ego, shadows and animus, are connected.
 
-J: ‘They are indicators with their own vertical order, their hierarchy represents “higher” and “lower” self, their arrangement designs a central signifier below the personality. Significants that gives us the ability to look ahead and seek fulfillment together.’ [8]
+J: ‘They are indicators with their own vertical order, their hierarchy represents “higher” and “lower” self, their arrangement designs a central signifier below the personality. Significants that gives us the ability to look ahead and seek fulfilment together.’ [8]
 
-T: Selfish behavior is in general perceived as something egoistic or narcissistic. Does Selflessness stand for Self-sacrifice?
+T: Selfish behaviour is in general perceived as something egoistic or narcissistic. Does Selflessness stand for Self-sacrifice?
 
 J: The essence of Self lies beyond the subjective realm. ‘To say that someone is Self-centered is to say that they are precisely not egotistical and narcissistic, but rather philosophical, having a wide perspective and not personally reactive or easily thrown off balance.’ [10] ‘Selflessness is rather transcendent deprivation,’ [8] which means beyond or above the range of the psychic realm.
 
@@ -374,6 +382,7 @@ J: Individuation differs for the opposite sex, beginning with mother and father.
 
 T: I understand you are influenced by the gender-based thinking of your time, however, I find this part quite controversial, and I cannot identify myself with this gender-oriented study, so forth I will be using just the word Animus for the rest of my Thesis, and I omit the masculine and feminine aspects.
 ## Pleroma
+![2.2THE PATH OF PLEROMA](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/30.png?raw=true)
 T: You describe the theory about Nothingness in relation to Fullness in your book Seven Sermons to the Dead; it seems to be absolutely essential for my observation, can you explain it?
 
 J: ‘I begin with nothingness. Nothingness is the same as Fullness. In infinity full is no better than empty. Nothingness is both empty and full. A thing that is infinite and eternal hath no qualities, since it hath all qualities.’ [11]
@@ -419,9 +428,8 @@ Well known Gregor Samsa [j] went through metamorphic-like transformation into an
 “However, Gregor had become much calmer. All right, people did not understand his words any more, although they seemed clear enough to him, clearer than previously, perhaps because had gotten used to them” [15]
 
 # Narcissism and social media. *'In what way does online voyeurism change the perception of our Selves?'*
-
 ## Narrated
-img
+![4.2 Natrration of online self permeates to one’s persona](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/41.png?raw=true)
 ## Next story
 Living in 21st-century in post-informative multi-media times, we are becoming the narrators of our Online-Selves. Current technologies along their metaphorical personalities are built and subsequently shaped by us, on that, we are being retroactively formed back, endlessly reflecting each other. With no surprise the technology affects us as if it had a complex of inadequacies, we chrome its self-confidence and evoke the beauty in the user.
 -> next
@@ -447,9 +455,12 @@ Anthropologist Kathleen Richardson states that enacted proxies of our real selve
 Multi-media has provided one with the means to [re]make, [re]define, [re]present oneself online. Consequently, the problematic moment arises within the consciousness of one’s online Egos. The online Self ethics seem to differ from our real world ethics. Suddenly the world appears to us only how we would love to maintain it, and this causes pain, despair, and hope. The absolute presence of every day, us who put out of countenance each other, the invasion of constant information, suddenly we are looking for the natural way of human desire for a fuller feeling of life and finding its meaning.
 -> next
 ## Online transformation
-img
+![4.3 THE TRANFORMATION OF ONLINE SELF](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/44.png?raw=true)
+![4.4 AFFECT OF MULTI-MEDIA ON SELF](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/45.png?raw=true)
 ## On line accomplishment
 What is the Online-self trying to accomplish by generating the dream to be admired behind every corner? Aiming for thousands of likes and infinitive views, by producing material that no one can remember.
+
+![4.5 RECOGNITION OF OTHER SELVES](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/46.png?raw=true)
 
 What is the Online-self trying to accomplish by copying the patches of others, hence setting the trends? The speed of spreading the information is so fast, the first resistance to unusualities turns into an affected assumption in a second. Dominating stupidity and its repetition cause unconventional thus blind support.
 
@@ -458,6 +469,8 @@ One sits wherever around the world by the small or big screen, as the one used t
 
 What is the Online-self trying to accomplish by daily following others’ life achievements?
 The quantity, that arouses desires in one, makes one possessive, jealous, anxious, as a consequence of daily feed one allows emotional disturbance, blocks one’s own growth.
+
+![4.6 MUTTUAL AFFECT OF THE SELVES](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/47.png?raw=true)
 
 What is the Online-self trying to accomplish by depriving the privacy of other’s personas including one’s own? The animus is the only part of our personas that remain uncontaminated. By extracting one’s narcissistic Egos back, one could for once act as a spectator, not as an actor.
 
@@ -494,7 +507,17 @@ Immediately when we turn ourselves to the invisibility of our own subject, we be
 WHEN YOU BREED, YOU WANT NOTHING - BUT YOU WANT SOMETHING. YOU WANT SOMETHING WHILE YOU WANT NOTHING. YOU DESIRE FOR NOTHING, BUT AT THE SAME TIME LOOKING FOR SOMETHING THAT MAKES YOUR DESIRE. YOU DESIRE A DESIRE THAT MAKES YOU DESIRE SOMETHING.
 Leo Tolstoi
 ## Nothingness
-imgs
+![Jannis Zell](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/z.jpg?raw=true)
+Jannis Zell, 2020
+Silicon Sculpture in the Dark
+Silicon and acrylic on canvas, 60x70cm
+[i1]
+
+![Jannis Zell](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/o.jpg?raw=true)
+Eduard Ovcacek, 1962
+Abstract study
+Limited edition screen print, 12ins x 9.25ins
+[i2]
 
 # Existence becomes design. *'Does one even need to seek one’s own distinctive identity?'*
 
@@ -503,7 +526,7 @@ One’s positioning in society determines the well-being of the whole, the mutu
 
 Multi-media constantly pressures us to imitate the perfect live life, by taking care not only of our appearance, but also our inner Self. The Dutch graphic designer Mieke Gerritzen states that society shaped a new phenomenon in the Self-help industry. ‘The media provides us with an image of an existence in which we are rich, beautiful, happy and successful to be. We know product design, interior design, graphic design, interaction design and fashion design. And now there is also self-design.‘ [26] Authentication became a trend, most of the humans who harvest their Self publicly think their sincere authentication is an artwork, it’s a task that craves research, reflections, analysis, realizations, observations, and actions. In my opinion, one needs the deprivation of all the influxes, at least those that are pointing towards a very specific direction, to truly evolve into convincing original. To be saved from our Selves we have to not be ourselves. It seeks one’s responsibility towards the world to call for the de-globalization to be different.
 
-Self-transparency is a very questionable topic, Mieke writes about a need to form a new defense mechanism that is a reaction to the flood of images that comes from the Outer world, ‘our bodies, with the old genetic transmission, have not kept pace with the new language-produced cultural transmission of technology. So now, when social control breaks down, we must expect to see pathological destruction.’ [28] To some extent this means playing 21st-century hide and seek with each other - against privacy, the right to be free, control over our data, and systematically taken decisions. Does even one have still something to hide? ‘Existence becomes design. Who you have become is based on a combination of circumstances that you have combined with your own choices… Privacy is an unpopular problem of our time.’ [26]
+Self-transparency is a very questionable topic, Mieke writes about a need to form a new defence mechanism that is a reaction to the flood of images that comes from the Outer world, ‘our bodies, with the old genetic transmission, have not kept pace with the new language-produced cultural transmission of technology. So now, when social control breaks down, we must expect to see pathological destruction.’ [28] To some extent this means playing 21st-century hide and seek with each other - against privacy, the right to be free, control over our data, and systematically taken decisions. Does even one have still something to hide? ‘Existence becomes design. Who you have become is based on a combination of circumstances that you have combined with your own choices… Privacy is an unpopular problem of our time.’ [26]
 
 ## Primitive automatization
 The culture that we live in is characterized by its mobility and connection. We unite as a clan of social creatures, herd together as sheep or ants. We have to remember we are still the biological species, well-behaved animals, just with the most intricate network of systems. Not robots yet, nevertheless living in the reversed world in which we are voluntarily exchanging our privacy for comfort. To get it back one has to give up online existence, which means no smartphone, no apps, no online banking, no fb events, nothing. Seeking for identity offline, designing the private space where one has to identify as anything else than just a person. 	
@@ -519,6 +542,7 @@ One feels a desire to experience oneself as a part of a larger cultural whole. T
 ## Self-cultivation
 The Self has two pedestals to stand on, one representing the Self-cultivation, and the other one representing the social responsibility of Self. We have to stand somewhere between Self-design and being Self-designed by society, striving to find a balance. I believe there are 3 stages in this process.
 
+![5.0 SELF SUFFICENCY](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/62.png?raw=true)
 ## Conclussion
 1
 By placing emphasis on a harmonical connection one can achieve a Positive self-design. The lack of one of those design influxes can cause trauma of the displacement Self.
@@ -536,6 +560,7 @@ Losing one’s Self - in other words impersonating - the process of undesigning 
 # What kind of animal are you? *'What did I find due to my incapability?'*
 
 ## Circle of my animuses
+![6.0 THE CIRCLE OF MY ANIMUS(ES)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/65.png?raw=true)
 ### Moth
 Able to orientate itself transversely in space only at the bright night, even tho the moon which reflects the light of day is just a dot above it, even tho the celestial glow is only a distant map. Thanks to it, I sit in places where awareness seems clearer.
 
@@ -566,7 +591,7 @@ Although I absorb all perceptions, the formal ones as well as the hidden, unwel
 Analyzing emptiness is more pleasant than experiencing it, I am not myself, nor an animal or any of my Animuses. Because when my Self thinks only of mySelf, nothing happens. Therefore, all I have left is an explanation, quite unplanned conclusion. Perhaps I am a river that flows constantly around the rocks, perhaps I am a fish in it, which enjoyes the softness of the sand, that is carried by the water itself, perhaps I am a bare foot that has impudently entered that exact environment. Either way, I feel, I know that I am an essence, whether alive or not, I am a reflection in the surface into which you unknowingly stare at, the same flat surface, that is my own no-answer. Dead sure I’m my own design.
 
 ## So this is me
-img
+![6.1 THE PATH OF MY ANIMUS(ES) (i4)](https://github.com/kabk/go-theses-21-tereza-novakova/blob/img/70.png?raw=true)
 
 # Sources
 **[1]** Rogers, Carl R. “On Becoming a Person: A Therapist’s View of Psychotherapy.” EnglishView all editions and formats, 1956.
@@ -607,17 +632,11 @@ At present we aware of more than two million known species, which are widely div
 **[27]** Groys, Boris. “The Obligation to Self-Design.” Journal #0 - e-Flux, 2008, www.e-flux.com/journal/00/68457/the-obligation-to-self-design.
 **[28]** Haraway, Donna J. “Staying with the Trouble.” 2016.
 **[29]** Meerloo, Joost. The Rape of the Mind: The Psychology of Thought Control, Menticide, and Brainwashing. Martino Fine Books, 2015.
-**[30]** Denning, Tim.  “Social Media Is a Computer Game for Adults.” Juli 2019, https://medium.com/the-ascent/social-media-is-a-computer-game-for-adults-41bc93bf406d.
-**[31]** D. Seeley, Thomas, and Paul W. Sherman. “Animal Behaviour - Character Mapping.” Encyclopedia Britannica, 2019, www.britannica.com/science/animal-behavior/Character-mapping.
-**[33]** Singer, Peter. “Ethics - Problems of Divine Origin.” Encyclopedia Britannica, 2020, www.britannica.com/topic/ethics-philosophy/Problems-of-divine-origin#ref28138.
+**[30]** [Denning, Tim.  “Social Media Is a Computer Game for Adults.” Juli 2019](http://medium.com/the-ascent/social-media-is-a-computer-game-for-adults-41bc93bf406d)
+**[31]** [D. Seeley, Thomas, and Paul W. Sherman. “Animal Behaviour - Character Mapping.” Encyclopedia Britannica, 2019](http://britannica.com/science/animal-behavior/Character-mapping)
+**[33]** [Singer, Peter. “Ethics - Problems of Divine Origin.” Encyclopedia Britannica, 2020](http://britannica.com/topic/ethics-philosophy/Problems-of-divine-origin#ref28138)
 
-**[i1]** Medievalmargins. “The Knight Battling the Snail.” Medieval Margins, 7 Dec. 2015, medievalmargins.tumblr.com/post/134675246808/the-knight-battling-the-snail.
+**[i1]** [Medievalmargins. “The Knight Battling the Snail.” Medieval Margins, 7 Dec. 2015](http://medievalmargins.tumblr.com/post/134675246808/the-knight-battling-the-snail)
 **[i2]** [Zell, Jannis. “@janniszell.” Instagram, 2020](http://instagram.com/accounts/login/?hl=en)
-**[i3]** [Eduard Ovcacek. “Abstract Study.” Invaluable.Com, 1962,](http://invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88)
+**[i3]** [Eduard Ovcacek. “Abstract Study.” Invaluable.Com, 1962](http://invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88)
 **[i4]** google images
-
-
-
-
-[his enormous collection of archives and printed materials](http://www.iisg.nl/archives/en/files/n/10765475.php)
-Source: [http://www.iisg.nl/](http://www.iisg.nl/collections/nettlau/)
