@@ -1,4 +1,4 @@
-# UNdesigning the Self
+# Undesigning the Self
 
 ### Narrator’s prologue
 
@@ -334,62 +334,63 @@ The fight constitutes an idea of the inner confrontation with one’s natural tr
 ## One
 T: You felt the urgency to break down the Persona into components, forget the view of the individual, and gain the general focus. How did it all begin?
 
-J: ‘About 3.5 billion years ago life has originated in the form of primordial, relatively simple organisms.’ [7] On the grounds of modern science, we believe all living things have evolved from this inferior unity. Charles Robert Darwin was the first who ‘accumulated evidence showing that evolution had occurred,’ [5] he claims that diverse organisms such as humans, animals, and plants ‘share common ancestors.’ Nevertheless, he was influenced by the thoughts of René Descartes, who declared that ‘a rigid distinction between human beings and “others” lies in de-automatization Self-acting.’ [6]
+> J: ‘About 3.5 billion years ago life has originated in the form of primordial, relatively simple organisms.’ [7] On the grounds of modern science, we believe all living things have evolved from this inferior unity. Charles Robert Darwin was the first who ‘accumulated evidence showing that evolution had occurred,’ [5] he claims that diverse organisms such as humans, animals, and plants ‘share common ancestors.’ Nevertheless, he was influenced by the thoughts of René Descartes, who declared that ‘a rigid distinction between human beings and “others” lies in de-automatization Self-acting.’ [6]
 
 T: In other words, the animals cannot articulate thoughts to one other, they have a different kind of soul, purely mechanistic in essence. However, I’m one and one is me, I sense the presence of an animal inside.
 
-J: As the civilization evolved in specific species with determined presumptions, one also went through the progression of one’s Self. Personas as identities, make us different from animals, humans acquire various kinds of them, however, animals have only one identity, unchanging.
+> J: As the civilization evolved in specific species with determined presumptions, one also went through the progression of one’s Self. Personas as identities, make us different from animals, humans acquire various kinds of them, however, animals have only one identity, unchanging.
+
 ![2.0 ARISTOTELIAN GRADATION OF THE SOUL](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/26.png?raw=true)
 ## Wholeness
 T: If one wants to be freed of something, one has to identify what to get rid of. In your book Aion - Researches into the Phenomenology of the Self, you declared if anyone wants to achieve ‘the complexity of cognition, not only intellectually, but also according to its feeling-value, must for better or worst come to grips with the Anima/Animus problem in order to open the way for a high union of opposites.’ [8]
 
-J: Yes, ‘this is an indispensable prerequisite for wholeness! The process of Individuation lies in Psyche’s Self-regulating system, by maintaining a balance between opposing qualities while constantly striving for growth.’ [8] The Mind is a fully conscious perception fixed by Psyche, in which its components function rather like secondary Selves altogether contributing to the whole.
+> J: Yes, ‘this is an indispensable prerequisite for wholeness! The process of Individuation lies in Psyche’s Self-regulating system, by maintaining a balance between opposing qualities while constantly striving for growth.’ [8] The Mind is a fully conscious perception fixed by Psyche, in which its components function rather like secondary Selves altogether contributing to the whole.
 
 T: So the term wholeness is equivalent to the Self?
 
-J: Wholeness results from Self consciousness. We are continually generating more material to integrate into Psyche, which makes it difficult to achieve any balance. ‘At first sight, wholeness seemed to be nothing but an abstract idea, it is nevertheless empirical in so far as it is anticipated by the psyche in the form of spontaneous or autonomous symbols.’ [8]
+> J: Wholeness results from Self consciousness. We are continually generating more material to integrate into Psyche, which makes it difficult to achieve any balance. ‘At first sight, wholeness seemed to be nothing but an abstract idea, it is nevertheless empirical in so far as it is anticipated by the psyche in the form of spontaneous or autonomous symbols.’ [8]
 
 The concept of the psyche is broken down as follows:
 ![2.1 JUNG’S MODEL OF THE PSYCHE](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/27.png?raw=true)
 ## Significances
 T: I’m particularly interested in how the 4 significances..persona, ego, shadows and animus, are connected.
 
-J: ‘They are indicators with their own vertical order, their hierarchy represents “higher” and “lower” self, their arrangement designs a central signifier below the personality. Significants that gives us the ability to look ahead and seek fulfilment together.’ [8]
+> J: ‘They are indicators with their own vertical order, their hierarchy represents “higher” and “lower” self, their arrangement designs a central signifier below the personality. Significants that gives us the ability to look ahead and seek fulfilment together.’ [8]
 
 T: Selfish behaviour is in general perceived as something egoistic or narcissistic. Does Selflessness stand for Self-sacrifice?
 
-J: The essence of Self lies beyond the subjective realm. ‘To say that someone is Self-centered is to say that they are precisely not egotistical and narcissistic, but rather philosophical, having a wide perspective and not personally reactive or easily thrown off balance.’ [10] ‘Selflessness is rather transcendent deprivation,’ [8] which means beyond or above the range of the psychic realm.
+> J: The essence of Self lies beyond the subjective realm. ‘To say that someone is Self-centered is to say that they are precisely not egotistical and narcissistic, but rather philosophical, having a wide perspective and not personally reactive or easily thrown off balance.’ [10] ‘Selflessness is rather transcendent deprivation,’ [8] which means beyond or above the range of the psychic realm.
 
 T: The Ego is the center of one’s consciousness, you write it ‘perceives meaning and assesses value.’ [8] Is awareness a result of the consciousness of Ego?
 
-J: ‘The “I” feels naively, that has existed forever.’ [10] Being concerned with Self-awareness, obviously, the Self has the highest position, however mutual with the Ego. I believe in ‘a privileged, intimate relation between those two components, therein the Self is in fact an image of the Ego, a kind of Super-Ego or ideal of the Ego.’ [10] The Ego as an organizer of our thoughts, feelings, sensations, is the one who can access our memory.
+> J: ‘The “I” feels naively, that has existed forever.’ [10] Being concerned with Self-awareness, obviously, the Self has the highest position, however mutual with the Ego. I believe in ‘a privileged, intimate relation between those two components, therein the Self is in fact an image of the Ego, a kind of Super-Ego or ideal of the Ego.’ [10] The Ego as an organizer of our thoughts, feelings, sensations, is the one who can access our memory.
 
 T: Why are you using the term Persona, when its origin comes from the mask worn by Greek actors?
 
-J: In Greek philosophy, Persona means ‘the packaging of the ego’, like that it works in one’s Self, as ‘an adaptation or personal convenience.’ [8] One might say that one’s social success ‘depends on having a reasonable well-functioning persona, on being flexible enough to adapt to different situations, on the accuracy of the ego expressions that lie behind it.’ [9]
+> J: In Greek philosophy, Persona means ‘the packaging of the ego’, like that it works in one’s Self, as ‘an adaptation or personal convenience.’ [8] One might say that one’s social success ‘depends on having a reasonable well-functioning persona, on being flexible enough to adapt to different situations, on the accuracy of the ego expressions that lie behind it.’ [9]
 
 T: According to your construct, is it right to assume that Shadows are the opposite of Persona?
 
-J: Indeed, the Shadow carries ‘all the things we do not want to know about ourselves or do not like, it is the opposite of those traits of which we are conscious.’ [9] ‘Not only that the shadows provide depth to our personalities, but also bring us into a broader understanding of the identity.’  [8]
+> J: Indeed, the Shadow carries ‘all the things we do not want to know about ourselves or do not like, it is the opposite of those traits of which we are conscious.’ [9] ‘Not only that the shadows provide depth to our personalities, but also bring us into a broader understanding of the identity.’  [8]
 
 T: You write about a door, that may be an entrance to animal cognition, which remains in humans as a result of evolution. The door?
 
-J: ‘The Anima/Animus are subjective personalities that represent a deeper level of the unconscious than the shadow. They exist but cannot but cannot be observed directly. For better or worse, they reveal the features of the soul and lead into the realm accessing the images of the collective unconscious.’ [10]
+> J: ‘The Anima/Animus are subjective personalities that represent a deeper level of the unconscious than the shadow. They exist but cannot but cannot be observed directly. For better or worse, they reveal the features of the soul and lead into the realm accessing the images of the collective unconscious.’ [10]
 
 T: What is the difference between Anima and Animus? Describe in detail why you conceived Anima/Animus as a ‘contrasexual archetype’?
 
-J: Individuation differs for the opposite sex, beginning with mother and father. Conventionally, for men the anima is a feminine figure; for women, the equivalent inner figure called the animus that is masculine.’ [8]
+> J: Individuation differs for the opposite sex, beginning with mother and father. Conventionally, for men the anima is a feminine figure; for women, the equivalent inner figure called the animus that is masculine.’ [8]
 
 T: I understand you are influenced by the gender-based thinking of your time, however, I find this part quite controversial, and I cannot identify myself with this gender-oriented study, so forth I will be using just the word Animus for the rest of my Thesis, and I omit the masculine and feminine aspects.
 ## Pleroma
 ![2.2THE PATH OF PLEROMA](https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/30.png?raw=true)
 T: You describe the theory about Nothingness in relation to Fullness in your book Seven Sermons to the Dead; it seems to be absolutely essential for my observation, can you explain it?
 
-J: ‘I begin with nothingness. Nothingness is the same as Fullness. In infinity full is no better than empty. Nothingness is both empty and full. A thing that is infinite and eternal hath no qualities, since it hath all qualities.’ [11]
+> J: ‘I begin with nothingness. Nothingness is the same as Fullness. In infinity full is no better than empty. Nothingness is both empty and full. A thing that is infinite and eternal hath no qualities, since it hath all qualities.’ [11]
 
 T: ‘The state of total Fullness or abundance is related particularly to the nature of God, representing the Fullness of the divine being.’ [12] Does it mean that by pure being we are Pleroma itself?
 
-J: ‘The totality of all opposites emerges in Pleroma, completed incomplete being. We are the Pleroma itself, but we are also not it, since we are distinguished from the pleroma in our essence as creatura, which is confined within time and space.’ [11]
+> J: ‘The totality of all opposites emerges in Pleroma, completed incomplete being. We are the Pleroma itself, but we are also not it, since we are distinguished from the pleroma in our essence as creatura, which is confined within time and space.’ [11]
 
 T: It is the beginning and the end of one’s existence, what lies between is insignificant. Could then one look for Pleroma through Individualisation?
 
@@ -636,7 +637,7 @@ At present we aware of more than two million known species, which are widely div
 **[31]** [D. Seeley, Thomas, and Paul W. Sherman. “Animal Behaviour - Character Mapping.” Encyclopedia Britannica, 2019](http://britannica.com/science/animal-behavior/Character-mapping)
 **[33]** [Singer, Peter. “Ethics - Problems of Divine Origin.” Encyclopedia Britannica, 2020](http://britannica.com/topic/ethics-philosophy/Problems-of-divine-origin#ref28138)
 
-**[i1]** [Medievalmargins. “The Knight Battling the Snail.” Medieval Margins, 7 Dec. 2015](http://medievalmargins.tumblr.com/post/134675246808/the-knight-battling-the-snail)
-**[i2]** [Zell, Jannis. “@janniszell.” Instagram, 2020](http://instagram.com/accounts/login/?hl=en)
-**[i3]** [Eduard Ovcacek. “Abstract Study.” Invaluable.Com, 1962](http://invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88)
-**[i4]** google images
+_**[i1]** [Medievalmargins. “The Knight Battling the Snail.” Medieval Margins, 7 Dec. 2015](http://medievalmargins.tumblr.com/post/134675246808/the-knight-battling-the-snail)_
+_**[i2]** [Zell, Jannis. “@janniszell.” Instagram, 2020](http://instagram.com/accounts/login/?hl=en)_
+_**[i3]** [Eduard Ovcacek. “Abstract Study.” Invaluable.Com, 1962](http://invaluable.com/auction-lot/eduard-ovcacek-born-1933-limited-edition-screen-p-602-c-bbe4affa88)_
+_**[i4]** google images_
