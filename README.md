@@ -92,8 +92,7 @@ I base this study on a desire to express myself more genuinely and present a mor
 
 However, I have come to the conclusion that in order to find positive harmony, one needs to find harmony through the whole, which includes the Self and its surroundings. Through my investigation, I have found that the search for Self-harmony is to be an inclusive one, otherwise, it merely becomes the destruction of culture. The search for inclusive harmony leads to knowledge and understanding.
 
-# I, as a selfless human.
-*'To what extent can one express the subjectivity objectively?'*
+# I, as a selfless human. *'To what extent can one express the subjectivity objectively?'*
 
 Since I value honesty I would like to start with a notification: this is not an academic paper. Enduring this abstract purging was for me a personal path. Even though I tried to be very objective, I cannot help but be highly subjective. It is paradoxical that in the course of study aimed at the suppression of my Self I’ve discovered I more retain a narcissistic perspective. One’s Self is an appliance to express individual inner entity, vice versa a subjective outer society is a consequence of our mutual affect.
 
@@ -108,16 +107,14 @@ The Manifesto is something that came completely spontaneously at the outset of m
 ## I am not
 ## Half-female, half-animal
 
-# We are never alone with our Selves.
-*'Hi Jung, how did I meet your Pleroma?'*
+# We are never alone with our Selves. *'Hi Jung, how did I meet your Pleroma?'*
 
 ## One
 ## Wholeness
 ## Significances
 ## Pleroma
 
-# Ego-death.
-*'How have the Selfless literary practices been changing the cognition of human essence?'*
+# Ego-death. *'How have the Selfless literary practices been changing the cognition of human essence?'*
 
 ## Principles
 ## Acceptance
@@ -125,8 +122,7 @@ The Manifesto is something that came completely spontaneously at the outset of m
 ## Together
 
 
-# Narcissism and social media.
-*'In what way does online voyeurism change the perception of our Selves?'*
+# Narcissism and social media. *'In what way does online voyeurism change the perception of our Selves?'*
 
 ## Narrated
 ## Next story
@@ -134,27 +130,23 @@ The Manifesto is something that came completely spontaneously at the outset of m
 ## On line accomplishment
 ## The new voyeurism
 
-# Talking as a compulsive simulation.
-*'What does the acknowledgment of one’s Animus mean for social communication?'*
+# Talking as a compulsive simulation. *'What does the acknowledgment of one’s Animus mean for social communication?'*
 
 ## Emptiness
 ## The society doom
 ## Nothingness
 
-# Existence becomes design.
-*'Does one even need to seek one’s own distinctive identity?'*
+# Existence becomes design. *'Does one even need to seek one’s own distinctive identity?'*
 
 ## Privacy
 ## Primitive automatization
 
-# Creature Self-design.
-*'How the state of individual and society depend on each other?'*
+# Creature Self-design. *'How the state of individual and society depend on each other?'*
 
 ## Self-cultivation
 ## Conclussion
 
-# What kind of animal are you?
-*'What did I find due to my incapability?'*
+# What kind of animal are you? *'What did I find due to my incapability?'*
 
 ## Circle of my animuses
 ## So this is me
