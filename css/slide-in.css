@@ -1,0 +1,236 @@
+@font-face {
+  font-family: "saol";
+  src: url("font/SaolDisplay-RegularItalic.ttf");
+}
+
+body {
+  font-family: "saol";
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+article {
+	margin: auto;
+}
+blockquote{
+  width:90vw;
+  padding-left:10vw;
+}
+
+article,
+.emptyBlocks {
+	width: 94vw;
+	margin: 2%;
+}
+
+p {
+  font-size: 3em;
+  letter-spacing: 0.05em;
+  padding-bottom: 10%;
+}
+
+/* .category, */
+.title{
+	position: -webkit-sticky;
+	position: sticky;
+	height: 100%;
+  top: 0;
+  font-size: 3em;
+	background-color: black;
+  color:white;
+  margin-top: 5%;
+  display: inline;
+  padding:1%;
+  line-height:2em;
+  box-decoration-break: clone;
+  z-index: 10;
+}
+
+.sub-title{
+  position: -webkit-sticky;
+	position: sticky;
+	height: 100%;
+  top: 11%;
+  font-size: 3em;
+	background-color: blue;
+  color:white;
+  margin-top: 5%;
+  display: inline;
+  padding:1%;
+  line-height:2em;
+  box-decoration-break: clone;
+  z-index: 10;
+}
+
+article span{
+	border: 2px solid grey;
+  /* to makeit end at the end of text on line */
+  -webkit-box-decoration-break: clone;
+box-decoration-break: clone;
+  padding:1%;
+    line-height:1.5em;
+}
+
+.emptyBlocks {
+	height: 200px;
+	margin: 40px auto;
+  background-color: white;
+}
+
+
+/* not using the enymore but keeping it here for now */
+/* .category {
+	top: 0;
+  font-size: 3em;
+} */
+
+
+
+
+/* sticky one letter for creating attention */
+#sticky {
+  position: sticky;
+  position: -webkit-sticky;
+
+  width: 20vw;
+  height: 100px;
+
+  top: 20%;
+
+  z-index: 1;
+  display: inline-block;
+  /* ustify-content: center; */
+  align-items: left;
+}
+
+#wrapper {
+  width: 20vw;
+  position: absolute;
+
+}
+#wrapper span {
+  font-size: 3em;
+  color:red;
+}
+p2{
+    padding: 5px;
+    padding-left: 2%;
+    display: inherit;
+    font-size: 4em;
+    text-decoration: underline;
+}
+
+p3{
+    width: 90vw;
+    padding-left: 20vw;
+    display: list-item;
+    font-size: 3em;
+
+}
+
+/* navigator literature */
+nav a {
+  color: black;
+  margin: none;
+  text-decoration: none;
+}
+
+p4{
+  font-size: 4em;
+}
+
+/* slider chapter 4 */
+p4{
+  text-align: center;
+  color: black;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 40px;
+z-index: 2;
+  display: inline-block;
+}
+
+/* my poem  */
+p8{
+  text-align: center;
+  color: black;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 40px;
+z-index: 2;
+display: list-item;
+font-size: 3em;
+margin-top: 2%;
+padding: 6px;
+}
+
+p7{
+  text-align: center;
+  color: blue;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 40px;
+z-index: 2;
+display: list-item;
+font-size: 3em;
+margin-top: 2%;
+padding: 6px;
+}
+
+#slider {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  z-index: 2;
+}
+
+#slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  list-style: none;
+  z-index: 2;
+}
+
+#slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding:0;
+  width: 92vw;
+  height: 100vh;
+margin-right:2vw;
+  z-index: 2;
+}
+
+.control_prev,
+.control_next {
+  font-family: "saol";
+  font-size: 1.5em;
+
+  top: 95%;
+  padding:2px;
+  z-index: 999;
+  display: block;
+background-color: white ;
+color:blue;
+  width: auto;
+  height: auto;
+text-decoration: underline;
+  cursor: pointer;
+  border: 0;
+}
+
+
+.control_next {
+margin: auto;
+display: inline-block;
+
+}
