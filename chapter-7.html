@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Thesis-Tereza Novakova-chapter-7</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  <link href="css/menu.css" rel="stylesheet" />
+  <link href="css/slide-in.css" rel="stylesheet" />
+  <link href="css/card-zoom.css" rel="stylesheet" />
+
+</head>
+
+<body>
+  <!-- menu  -->
+  <marquee direction="up" scrolldelay="800" behavior="alternate" style="width:100vw; height:100vh; position:fixed;">
+  <marquee behavior="alternate" scrolldelay="800" onmouseover="stop()" onmouseout="start()" style="padding:5%;width:100vw;">
+  <nav class="circular-menu">
+    <div id="container">
+    <div class="circle">
+      <a href="chapter-1.html" class="item">1</a>
+      <a href="chapter-2.html"  class="item">2</a>
+      <a href="chapter-3.html"  class="item">3</a>
+      <a href="chapter-4.html"  class="item">4</a>
+      <a href="chapter-5.html"  class="item">5</a>
+      <a href="chapter-6.html"  class="item">6</a>
+      <a href="chapter-7.html"  class="item" style="color:red;">7</a>
+      <a href="chapter-8.html"  class="item">8</a>
+      <a href="index.html" class="item">i</a>
+    </div>
+    <a href="" class="menu-button">chapters</a>
+  </div>
+  </nav>
+</marquee>
+</marquee>
+
+<!-- slide in text starts here -->
+<article>
+<h1 class="title">CREATURE SELF-DESIGN</h1>
+<p><span>How the state of individual and society depend on each other?</span></p>
+</article>
+<article>
+<h2 class="title">Self-cultivation</h2>
+<p>The Self has two pedestals to stand on, one representing the Self-cultivation, and the other one representing the social responsibility of Self. We have to stand somewhere between Self-design and being Self-designed by society, striving to find a balance. I believe there are 3 stages in this process.
+</p></article>
+<article>
+<h2 class="title">Self-sufficency</h2>
+<p><img src="https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/62.png?raw=true" alt="5.0 SELF SUFFICENCY" style="width:100%; height:auto;"></p>
+</article>
+<article>
+<h2 class="title">Conclussion</h2>
+<p>1
+By placing emphasis on a harmonical connection one can achieve a Positive self-design. The lack of one of those design influxes can cause trauma of the displacement Self.</p>
+<p>2
+In the case of deprivation of Self-cultivation, one is not able to function in life fully, as I haven’t been able to communicate with my surroundings, I let the surroundings utterly affect me. On these terms, society fills in what one loses and automatically forms the needed stabilization, the entire process of castration of one’s own design is being supported by the online existence of our era. In some means, one provides the personal subjective space for the signification of objective society design.</p>
+<p>3
+If one is not losing anything of oneself then one is also achieving a certain positive existence. Nevertheless, when social responsibilities are negligible, one’s Self lacks a flow of commitment in society, furthermore one just deteriorates or completely dominates the surroundings. A strong personality fills society with itself.</p>
+<p>The new Self-perception is adopted as one’s own, except the Animus which stays as the single component unaffected. This procedure is a never-ending struggle to balance autonomy and connection with others. It felt difficult to accept the fact that by accepting the qualitative aspect of intellect as an exceptional advantage of humans, one cannot naturally undergo a metamorphosis into an animal. Instead, one can feel a constant stream of affects, emotional explosions between intellectual deductions.</p>
+<p>Losing one’s Self - in other words impersonating - the process of undesigning means depriving one of the Persona, that is significant to play one’s social role. Hence Undesigning one’s Self is autonomous freedom of choice, but by that one will never achieve positive harmony. Impersonating is an act through which we come back to our body, which behaves animally, physiologically, or mechanically in all aspects. This makes one part of the animal world again. This thesis is hopeful finalization of my narcissism.</p>
+</article>
+
+<div class="emptyBlocks"></div>
+
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/code.js"></script>
+  <script src="js/slider-chapter-4.js"></script>
+  <script src="js/scroll-to-sources.js"></script>
+  <!-- menu -->
+  <script>
+
+var items = document.querySelectorAll('.circle a');
+
+for(var i = 0, l = items.length; i < l; i++) {
+  items[i].style.left = (50 - 35*Math.cos(-0.5 * Math.PI - 2*(1/l)*i*Math.PI)).toFixed(4) + "%";
+
+  items[i].style.top = (50 + 35*Math.sin(-0.5 * Math.PI - 2*(1/l)*i*Math.PI)).toFixed(4) + "%";
+}
+
+document.querySelector('.menu-button').onclick = function(e) {
+   e.preventDefault(); document.querySelector('.circle').classList.toggle('open');
+}
+</script>
+
+
+</body>
+
+</html>
