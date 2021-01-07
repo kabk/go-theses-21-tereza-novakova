@@ -1,0 +1,158 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	}
+
+body {
+  display: block;
+  justify-content: center;
+  align-items: center;
+	height: 100%;
+	width: 100%;
+	touch-action: manipulation;
+	font-family: "saol";
+}
+
+#container {
+  width:500px;
+  height: 500px;
+  margin: 10%;
+  animation: spin 50s linear infinite;
+  background-image: radial-gradient(rgb(255,255,255,1), rgb(255,255,255,1),rgb(255,255,255,0.9), rgb(255,255,255,0.7),rgb(255,255,255,0));
+
+}
+
+#container:hover {
+   animation-play-state: spin 40s linear infinite;
+ }
+
+@keyframes spin {
+  100% {
+    transform: rotate(1turn);
+  }
+}
+
+.item {
+	border-radius: 50%;
+	position: absolute;
+  animation: spin 50s linear infinite reverse;
+	background-color: white;
+	z-index: 900;
+}
+
+.item .item-text {
+  visibility: hidden;
+  width:500px;
+  text-align: left;
+  border-radius: 6px;
+	padding-top: 50px;
+  position: absolute;
+  z-index: 500;
+}
+
+.item:hover .item-text {
+  visibility: visible;
+}
+
+
+/* new floating menu */
+/* Demo by http://creative-punch.net */
+.circular-menu {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.circle {
+  width: 600px;
+  height: 600px;
+  opacity: 0;
+
+
+  -webkit-transform: scale(0);
+  -moz-transform: scale(0);
+  transform: scale(0);
+
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+}
+
+.open.circle {
+  opacity: 1;
+	position: absolute;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  transform: scale(1);
+		z-index: 990;
+}
+
+.circle:before {
+  content: "";
+  position: absolute;
+	border: 4px solid #000;
+	border-radius: 50%;
+  top: 80px;
+  bottom: 0;
+  left: 80px;
+  right: 0;
+	width: 420px;
+	height:420px;
+
+}
+
+.circle a {
+  text-decoration: none;
+  display: block;
+  height: 80px;
+  width:80px;
+  line-height: 80px;
+  margin-left: -40px;
+  margin-top: -40px;
+  position: absolute;
+  text-align: center;
+	z-index: 991;
+  font-size: 3em;
+  color: black;
+  border: none;
+  cursor: pointer;
+  outline: inherit;
+}
+
+.circle a:active {
+	color:red;
+}
+
+.menu-button{
+position: absolute;
+top: 15px;
+left: -35px;
+text-decoration: none;
+text-align: center;
+color: #444;
+border-radius: 50%;
+display: block;
+margin: 250px;
+
+/* animation: spin 15s linear infinite reverse; */
+font-size: 3em;
+z-index: 992;
+}
+
+
+/* fixed down */
+.fixed{
+	width: 96vw;
+	height:5vh;
+	background-color: white;
+	color:black;
+	bottom: 1vh;
+    display: block;
+    position: fixed;
+		z-index: 600;
+		margin-left:2vw;
+		border: 1px solid #000;
+		border-radius: 6px;
+}
