@@ -548,11 +548,17 @@ The Self has two pedestals to stand on, one representing the Self-cultivation, a
 1
 By placing emphasis on a harmonical connection one can achieve a Positive self-design. The lack of one of those design influxes can cause trauma of the displacement Self.
 
+---
+
 2
 In the case of deprivation of Self-cultivation, one is not able to function in life fully, as I haven’t been able to communicate with my surroundings, I let the surroundings utterly affect me. On these terms, society fills in what one loses and automatically forms the needed stabilization, the entire process of castration of one’s own design is being supported by the online existence of our era. In some means, one provides the personal subjective space for the signification of objective society design.
 
+---
+
 3
 If one is not losing anything of oneself then one is also achieving a certain positive existence. Nevertheless, when social responsibilities are negligible, one’s Self lacks a flow of commitment in society, furthermore one just deteriorates or completely dominates the surroundings. A strong personality fills society with itself.
+
+---
 
 The new Self-perception is adopted as one’s own, except the Animus which stays as the single component unaffected. This procedure is a never-ending struggle to balance autonomy and connection with others. It felt difficult to accept the fact that by accepting the qualitative aspect of intellect as an exceptional advantage of humans, one cannot naturally undergo a metamorphosis into an animal. Instead, one can feel a constant stream of affects, emotional explosions between intellectual deductions.
 
