@@ -1,0 +1,129 @@
+
+/* .... */
+/* ---- grid ---- */
+
+.grid {
+  background: #DDD;
+  max-width: 96%;
+
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+#wrapper {
+  width:97%;
+  padding-top: 100px;
+}
+.wrapper {
+    width:97%;
+    margin:0 auto;
+}
+.wrapper div {
+    width:47%;
+    margin:1%;
+    float:left;
+    -webkit-transition: width 1s;
+    transition: width 1s;
+    font-size: 0.5em;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px;
+    height:45vh;
+    z-index: 2;
+    padding:20px;
+}
+
+.wrapper img {
+  height:auto;
+  width:100%;
+}
+
+.expanded {
+    width:96% !important;
+    height:100% !important;
+
+}
+.expanded p {
+    font-size: 8em;
+    line-height: 1em;
+    height:auto;
+}
+
+p5{
+    width: 77vw;
+    padding: 30px;
+    margin-left: 18vw;
+    display: block;
+    font-size: 3em;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+border-radius: 40px;
+  font-size: 4em;
+}
+
+p6{
+  font-size: 3em;
+  padding-bottom: 10%;
+    width: 77vw;
+    padding: 30px;
+    display: block;
+    font-size: 3em;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+border-radius: 40px;
+  font-size: 4em;
+}
+
+
+#wrapper-1 {
+    width: 97%;
+    padding-top: 100px;
+    position: absolute;
+}
+
+.wrapper-1 {
+    width:100vw;
+    margin:0 auto;
+    position: absolute;
+}
+.wrapper-1 div {
+    width:30vw;
+    margin:1%;
+    float:left;
+    -webkit-transition: width 1s;
+    transition: width 1s;
+    font-size: 0.5em;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px;
+    height:30vh;
+    z-index: 2;
+    padding:20px;
+}
+
+.wrapper-1 img {
+  height:auto;
+  width:100vw;
+}
+
+.expanded-1 {
+    width:94vw !important;
+    height:50vh !important;
+}
+.expanded-1 p {
+    font-size: 8em;
+    line-height: 1em;
+    height:auto;
+    padding-bottom: 0;
+}
