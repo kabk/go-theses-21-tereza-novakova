@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "saol";
+  src: url("font/Gramatika-Regular.ttf");
+}
+
+@font-face {
+  font-family: "bold";
+  src: url("font/Gramatika-Bold.ttf");
+}
+
+@font-face {
+  font-family: "italic";
+  src: url("font/Gramatika-RegularItalic.ttf");
+}
 
 /* .... */
 /* ---- grid ---- */
