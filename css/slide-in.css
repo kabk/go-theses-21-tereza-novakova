@@ -1,6 +1,16 @@
 @font-face {
   font-family: "saol";
-  src: url("font/SaolDisplay-RegularItalic.ttf");
+  src: url("font/Gramatika-Regular.ttf");
+}
+
+@font-face {
+  font-family: "bold";
+  src: url("font/Gramatika-Bold.ttf");
+}
+
+@font-face {
+  font-family: "italic";
+  src: url("font/Gramatika-RegularItalic.ttf");
 }
 
 body {
@@ -21,13 +31,12 @@ blockquote{
 
 article,
 .emptyBlocks {
-	width: 94vw;
+	width: auto;
 	margin: 2%;
 }
 
 p {
   font-size: 3em;
-  letter-spacing: 0.05em;
   padding-bottom: 10%;
 }
 
@@ -36,26 +45,55 @@ p {
 	position: -webkit-sticky;
 	position: sticky;
 	height: 100%;
-  top: 0;
+  top: 2vw;
   font-size: 3em;
-	background-color: black;
-  color:white;
   margin-top: 5%;
   display: inline;
   padding:1%;
-  line-height:2em;
+  line-height:1.8em;
   box-decoration-break: clone;
   z-index: 10;
+}
+
+h1{
+  background-color: black;
+  color:white;
+}
+
+h2{
+  background-color: white;
+  color:black;
+  border: 2px solid grey;
+  /* to makeit end at the end of text on line */
+  -webkit-box-decoration-break: clone;
+box-decoration-break: clone;
+  padding:1%;
+    line-height:1.5em;
+}
+h3{
+  color:black;
+  font-family:"italic";
+  /* to makeit end at the end of text on line */
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding:1%;
+  font-size: 1.7em;
+  line-height:1em;
+}
+h4{
+  background-color: black;
+  color:white;
 }
 
 .sub-title{
   position: -webkit-sticky;
 	position: sticky;
 	height: 100%;
-  top: 11%;
+  top: 7%;
   font-size: 3em;
-	background-color: blue;
-  color:white;
+	background-color: white;
+  color:black;
+  font-family: "bold";
   margin-top: 5%;
   display: inline;
   padding:1%;
@@ -71,6 +109,7 @@ article span{
 box-decoration-break: clone;
   padding:1%;
     line-height:1.5em;
+    font-style: italic;
 }
 
 .emptyBlocks {
@@ -125,8 +164,9 @@ p2{
 p3{
     width: 90vw;
     padding-left: 20vw;
-    display: list-item;
-    font-size: 3em;
+    display: inline-block;
+    font-size: 3.6em;
+    font-family: "bold";
 
 }
 
@@ -137,18 +177,14 @@ nav a {
   text-decoration: none;
 }
 
-p4{
-  font-size: 4em;
-}
+
 
 /* slider chapter 4 */
 p4{
+    font-size: 4em;
   text-align: center;
   color: black;
-border-width: 1px;
-border-color: black;
-border-style: solid;
-  border-radius: 40px;
+
 z-index: 2;
   display: inline-block;
 }
@@ -160,9 +196,10 @@ p8{
 border-width: 1px;
 border-color: black;
 border-style: solid;
-  border-radius: 40px;
+  font-family: "bold";
+  border-radius: 6px;
 z-index: 2;
-display: list-item;
+display: block;
 font-size: 3em;
 margin-top: 2%;
 padding: 6px;
@@ -170,17 +207,55 @@ padding: 6px;
 
 p7{
   text-align: center;
-  color: blue;
+  color: grey;
+    font-family: "bold";
 border-width: 1px;
 border-color: black;
 border-style: solid;
-  border-radius: 40px;
+  border-radius: 6px;
+
+z-index: 2;
+display: block;
+font-size: 3em;
+margin-top: 2%;
+padding: 6px;
+}
+
+p9{
+  text-align: center;
+  color: white;
+  background-color: grey;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 6px;
 z-index: 2;
 display: list-item;
 font-size: 3em;
 margin-top: 2%;
 padding: 6px;
 }
+
+p10{
+    font-family: "italic";
+  text-align: center;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 6px;
+z-index: 2;
+display:block;
+font-size: 3em;
+margin-top: 2%;
+padding: 6px;
+color:black;
+}
+p11 {
+  font-size: 3em;
+  font-family: "bold";
+  padding-bottom: 10%;
+}
+
 
 #slider {
   position: relative;
@@ -206,20 +281,18 @@ padding: 6px;
   padding:0;
   width: 92vw;
   height: 100vh;
-margin-right:2vw;
+
   z-index: 2;
 }
 
 .control_prev,
 .control_next {
-  font-family: "saol";
-  font-size: 1.5em;
-
+background-color: inherit;
+  font-size: 1.3em;
   top: 95%;
-  padding:2px;
+
   z-index: 999;
   display: block;
-background-color: white ;
 color:blue;
   width: auto;
   height: auto;
