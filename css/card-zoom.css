@@ -19,14 +19,14 @@
 
 #wrapper {
   width:97%;
-  padding-top: 100px;
+  padding-top: 180px;
 }
 .wrapper {
     width:97%;
     margin:0 auto;
 }
 .wrapper div {
-    width:47%;
+    width:46%;
     margin:1%;
     float:left;
     -webkit-transition: width 1s;
@@ -35,7 +35,7 @@
     border-width: 1px;
     border-color: black;
     border-style: solid;
-    border-radius: 40px;
+    border-radius: 6px;
     height:45vh;
     z-index: 2;
     padding:20px;
@@ -47,7 +47,7 @@
 }
 
 .expanded {
-    width:96% !important;
+    width:94% !important;
     height:100% !important;
 
 }
@@ -66,12 +66,15 @@ p5{
   border-width: 1px;
   border-color: black;
   border-style: solid;
-border-radius: 40px;
+border-radius: 6px;
   font-size: 4em;
+  line-height: 1.2em;
 }
 
 p6{
+    line-height: 1.2em;
   font-size: 3em;
+  margin-top: 1vh;
   padding-bottom: 10%;
     width: 77vw;
     padding: 30px;
@@ -80,32 +83,31 @@ p6{
   border-width: 1px;
   border-color: black;
   border-style: solid;
-border-radius: 40px;
+border-radius: 6px;
   font-size: 4em;
 }
 
 
 #wrapper-1 {
-    width: 97%;
+    width: 96%;
     padding-top: 100px;
     position: absolute;
 }
 
 .wrapper-1 {
-    width:100vw;
+    width:96vw;
     margin:0 auto;
     position: absolute;
 }
 .wrapper-1 div {
-    width:30vw;
-    margin:1%;
+    width:31vw;
+    /* margin:1%; */
     float:left;
     -webkit-transition: width 1s;
     transition: width 1s;
     font-size: 0.5em;
     border-width: 1px;
-    border-color: black;
-    border-style: solid;
+
     border-radius: 40px;
     height:30vh;
     z-index: 2;
@@ -118,7 +120,7 @@ border-radius: 40px;
 }
 
 .expanded-1 {
-    width:94vw !important;
+    width:92vw !important;
     height:50vh !important;
 }
 .expanded-1 p {
