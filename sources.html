@@ -9,15 +9,25 @@
 
   <link href="css/menu.css" rel="stylesheet" />
   <link href="css/slide-in.css" rel="stylesheet" />
+    <script src="js/float_menu.js"></script>
 
 </head>
 
 <body>
-  <!-- menu  -->
-  <marquee direction="up" scrolldelay="800" behavior="alternate" style="width:100vw; height:100vh; position:fixed;">
-  <marquee behavior="alternate" scrolldelay="800" onmouseover="stop()" onmouseout="start()" style="padding:5%;width:100vw;">
+  <!-- <div class="fixed-right">
+    <a href="chapter-2.html" ><p2>>></p2></a>
+  </div> -->
 
-  <nav class="circular-menu">
+  <div class="fixed-left">
+    <a href="chapter-8.html" ><p2><<</p2></a>
+  </div>
+
+  <div class="fixed-cross">
+    <a href="chapters.html" style="padding-right: 55%;"><p2>X</p2></a>
+  </div>
+
+  <!-- menu  -->
+  <div class="circular-menu" style="position:fixed;">
     <div id="container">
     <div class="circle">
       <a href="chapter-1.html"  class="item">1</a>
@@ -30,11 +40,9 @@
       <a href="chapter-8.html"  class="item">8</a>
       <a href="index.html" class="item">i</a>
     </div>
-    <a href="" class="menu-button">chapters</a>
+    <a href="" class="menu-button">QUICK MENU</a>
   </div>
-  </nav>
-</marquee>
-</marquee>
+  </div>
 
 <!-- slide in text starts here -->
 <article>
@@ -126,13 +134,7 @@ At present we aware of more than two million known species, which are widely div
 <div class="emptyBlocks"></div>
 
 
-<div class="fixed">
-  <a href="chapters.html" style="padding-right: 55%;"><p2>
-    overview
-  </p2></a>
-  <a href="chapters.html" ><p2><<</p2></a>
-  <a href="chapter-2.html" style="position: absolute;"><p2>>></p2></a>
-</div>
+
 
 
 
