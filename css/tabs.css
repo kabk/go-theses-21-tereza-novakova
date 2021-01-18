@@ -1,0 +1,57 @@
+.tabs {
+  position: relative;
+  min-height: 80vh;
+  clear: both;
+  /* margin-top:8%; */
+  margin-bottom:5%;
+
+}
+.tab {
+  float: left;
+  margin:auto;
+  margin-left:11%;
+  min-height: 95vh;
+  font-size: 1.2em;
+}
+.tab label {
+  padding: 45px;
+  /* border: 1px solid black; */
+  /* margin-left: -1px;
+  border-radius: 6px; */
+  position: relative;
+  align-items: center;
+  font-size: 3em;
+}
+.tab [type="radio"] {
+  opacity: 0;
+}
+.content {
+  position: absolute;
+  top: 6vh;
+  left: 0;
+  background: white;
+  right: 0;
+
+  /* padding: 30px; */
+  /* border: 1px solid black;
+    border-radius: 6px; */
+  overflow: hidden;
+  /* text-align: center; */
+
+}
+.content > * {
+  opacity: 0;
+  transition: all 0.6s ease;
+}
+
+[type="radio"]:checked ~ label {
+  background: white;
+  border-bottom: 10px solid white;
+  z-index: 2;
+}
+[type="radio"]:checked ~ label ~ .content {
+  z-index: 1;
+}
+[type="radio"]:checked ~ label ~ .content > * {
+  opacity: 1;
+}
