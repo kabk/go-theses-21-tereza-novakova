@@ -13,11 +13,20 @@
 </head>
 
 <body>
-  <!-- menu  -->
-  <marquee direction="up" scrolldelay="800" behavior="alternate" style="width:100vw; height:100vh; position:fixed;">
-  <marquee behavior="alternate" scrolldelay="800" onmouseover="stop()" onmouseout="start()" style="padding:5%;width:100vw;">
+  <div class="fixed-right">
+    <a href="chapter-1.html" ><p2>>></p2></a>
+  </div>
 
-  <nav class="circular-menu">
+  <!-- <div class="fixed-left">
+    <a href="index.html" ><p2><<</p2></a>
+  </div> -->
+
+  <div class="fixed-cross">
+    <a href="chapters.html" style="padding-right: 55%;"><p2>X</p2></a>
+  </div>
+
+  <!-- menu  -->
+  <div class="circular-menu" style="position:fixed;">
     <div id="container">
     <div class="circle">
       <a href="chapter-1.html"  class="item">1</a>
@@ -28,13 +37,11 @@
       <a href="chapter-6.html"  class="item">6</a>
       <a href="chapter-7.html"  class="item">7</a>
       <a href="chapter-8.html"  class="item">8</a>
-      <a href="index.html" class="item" style="color:red;">i</a>
+      <a href="index.html" class="item" style="color:purple;">i</a>
     </div>
-    <a href="" class="menu-button">chapters</a>
+    <a href="" class="menu-button">QUICK MENU</a>
   </div>
-  </nav>
-</marquee>
-</marquee>
+  </div>
 
 <!-- slide in text starts here -->
 <article>
@@ -42,17 +49,10 @@
 <p><span>Tereza Novakova, kabk, 2020/2021</span></p>
 </article>
 <article>
-	<h2 class="title" id="anotation">Anotation</h2>
-  <p>In my work, I deal with the identity of the Self and its position in society. We can perceive this connection either from a subjective or objective perspective. There exists a self in the real world and another in the online reversed world, which enriches but also disrupts our perception.</p>
-  <p>Nowadays, we have time and space to deal with the form of ourselves; we live in a realm where we feel pressured to design our identity in order to survive, hence we articulate ourselves through short extracts from reality. The concept of self-design is elemental to my thesis.</p>
-  <p>I base this study on a desire to express myself more genuinely and present a more real version of myself in the world; I was only able to do this via the removal of my narcissistic Ego. The primitive effort to find a balance in simple animal beings, through which I try to seek answers, was my means to me undesigning my Self.</p>
-  <p>However, I have come to the conclusion that in order to find positive harmony, one needs to find harmony through the whole, which includes the Self and its surroundings. Through my investigation, I have found that the search for Self-harmony is to be an inclusive one, otherwise, it merely becomes the destruction of culture. The search for inclusive harmony leads to knowledge and understanding.</p>
-</article>
-<article>
 	<h2 class="title" id="narrator">Narrator’s prologue</h2>
-  <p>My name is Tereza,
+  <p><i>My name is Tereza,</i>
   there is no information hidden in this sentence.</p>
-  <p>If I take into account Carl Jung’s theory about Persona, I could say that my Self is composed of four layers.</p>
+  <p><strong>If I take into account Carl Jung’s theory about Persona, I could say that my Self is composed of four layers.</strong></p>
   <p>My name is Tereza,
   speaking plainly, I want to tell you a story about the last layer of my psyche called Anima/Animus.</p>
   <p>Anima/Animus stands as the base of all one’s actions, it represents the deepest unconsciousness, basic impulses, general instincts which govern one’s behavior. It is not easy to observe.</p>
@@ -73,14 +73,19 @@
   <p>Now you might be asking, what did I find?
   My name is…<br>that’s enough for now!</p>
 </article>
+<article>
+	<h2 class="title" id="anotation">Anotation</h2>
+  <p>In my work, I deal with the identity of the Self and its position in society. We can perceive this connection either from a subjective or objective perspective. There exists a self in the real world and another in the online reversed world, which enriches but also disrupts our perception.</p>
+  <p>Nowadays, we have time and space to deal with the form of ourselves; we live in a realm where we feel pressured to design our identity in order to survive, hence we articulate ourselves through short extracts from reality. The concept of self-design is elemental to my thesis.</p>
+  <p>I base this study on a desire to express myself more genuinely and present a more real version of myself in the world; I was only able to do this via the removal of my narcissistic Ego. The primitive effort to find a balance in simple animal beings, through which I try to seek answers, was my means to me undesigning my Self.</p>
+  <p>However, I have come to the conclusion that in order to find positive harmony, one needs to find harmony through the whole, which includes the Self and its surroundings. Through my investigation, I have found that the search for Self-harmony is to be an inclusive one, otherwise, it merely becomes the destruction of culture. The search for inclusive harmony leads to knowledge and understanding.</p>
+</article>
+<article>
+  <h2 class="title" id="3d">THESIS STRUCTURE</h2>
+  <p><img src="https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/0.jpg?raw=true" alt="1.5 THE CATHARSIS OF SELF IN 3D" style="width:100%; height:auto;"></p>
+  <p><img src="https://github.com/kabk/go-theses-21-tereza-novakova/blob/main/img/1.jpg?raw=true" alt="1.5 THE CATHARSIS OF SELF IN 3D" style="width:100%; height:auto;"></p>
 
-<div class="fixed">
-  <a href="chapters.html" style="padding-right: 65%;"><p2>
-    overview
-  </p2></a>
-  <!-- <a href="chapters.html"><p2><<</p2></a> -->
-  <a href="chapter-1.html" style="position: absolute;"><p2>>></p2></a>
-</div>
+</article>
 
 <div class="emptyBlocks"></div>
 
@@ -100,6 +105,7 @@
   <script src="js/isotope.pkgd.min.js"></script>
   <script src="js/code.js"></script>
   <script src="js/scroll-to-sources.js"></script>
+    <script src="js/float_menu.js"></script>
   <!-- menu -->
   <script>
 
