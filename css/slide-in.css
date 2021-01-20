@@ -172,6 +172,14 @@ p3{
 
 }
 
+p13{
+    width: 90vw;
+    padding-left: 20vw;
+    display: inline-block;
+    font-size: 3.1em;
+    font-family: "bold";
+}
+
 /* navigator literature */
 nav a {
   color: black;
@@ -210,6 +218,7 @@ display: block;
 font-size: 2em;
 margin-top: 2%;
 padding: 6px;
+line-height: 1.8em;
 }
 
 p7{
@@ -220,12 +229,12 @@ border-width: 1px;
 border-color: black;
 border-style: solid;
   border-radius: 6px;
-
 z-index: 2;
 display: block;
 font-size: 2em;
 margin-top: 2%;
 padding: 6px;
+line-height: 1.8em;
 }
 
 p9{
@@ -238,9 +247,10 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display: list-item;
-font-size: 2.5em;
+font-size: 2.6em;
 margin-top: 2%;
-padding: 6px;
+padding: 10px;
+line-height: 1.3em;
 }
 
 p10{
@@ -252,15 +262,31 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display:block;
-font-size: 2.5em;
+font-size: 2.6em;
 margin-top: 2%;
 padding: 6px;
 color:black;
+    line-height: 1.3em;
 }
 p11 {
   font-size: 2em;
   font-family: "bold";
   padding-bottom: 10%;
+}
+p12{
+    font-family: "italic";
+  text-align: center;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 6px;
+z-index: 2;
+display:block;
+font-size: 2.6em;
+margin-top: 2%;
+padding: 6px;
+color:black;
+    line-height: 1.3em;
 }
 
 
