@@ -9,6 +9,7 @@
 
   <link href="css/menu.css" rel="stylesheet" />
   <link href="css/slide-in.css" rel="stylesheet" />
+  <link href="css/graph-toogle.css" rel="stylesheet" />
 
 </head>
 
@@ -48,8 +49,38 @@
 <h1 class="title">UNDESIGNING THE SELF</h1>
 <p><span>Tereza Novakova, kabk, 2020/2021</span></p>
 </article>
+
 <article>
-	<h2 class="title" id="narrator">NARRATOR'S PROLOGUE</h2> 
+    <div class="graph-1">
+      <div class="container" style="position:absolute;width:80%; margin-top:100px;color:black; transform: rotate(-25deg);">
+        <div class="circle-0">OUTER                   </div>
+      </div>
+      <div class="container" style="position:absolute;width:80%; margin-top:200px;">
+        <div class="circle-1">- - - - - - - - - - - - - - - - - -PERSONA</div>
+      </div>
+      <div class="container" style="position:absolute;width:80%; margin-top:400px;">
+        <div class="circle-1">- - - - - - - - - - - - EGO - - - - - -</div>
+      </div>
+      <div style="position:absolute;font-size:2em; margin:auto;width:100%;text-align: center;display: flex;justify-content: center;align-items: center;height:1800px;">
+        <h2 style="padding: 1%;border-radius: 6px;">
+    THE SELF</h2>
+      </div>
+      <div class="container" style="position:absolute;width:80%; margin-top:800px;">
+        <div class="circle-1">- - - - - - SHADOWS - - - - - - - - - - - -</div>
+      </div>
+      <div class="container" style="position:absolute;width:80%; margin-top:1000px;">
+        <div class="circle-1">- - - - - - - - - - - ANIMUS - - - - - - -</div>
+      </div>
+      <div class="container" style="position:absolute;width:80%; margin-top:1100px; color:black;">
+        <div class="circle-0">           INNER          </div>
+      </div>
+    </div>
+
+</article>
+
+
+<article>
+	<h2 class="title" id="narrator">NARRATOR'S PROLOGUE</h2>
   <p><i>My name is Tereza,</i><br/>
   there is no information hidden in this sentence.</p>
   <p5>If I take into account Carl Jung’s theory about Persona, I could say that my Self is composed of four layers.</p5><br/>
@@ -110,6 +141,60 @@
   <script src="js/code.js"></script>
   <script src="js/scroll-to-sources.js"></script>
     <script src="js/float_menu.js"></script>
+
+    <!-- round self -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="js/circleText.js"></script>
+    <script src="js/float_menu.js"></script>
+
+    <!-- round self -->
+    <script>
+    $(".circle-0").circleText({
+      glue: "",
+      turn: false,
+
+      radius: 300,
+      duration: 500,
+      repeat: 1,
+    });
+      $(".circle-1").circleText({
+        glue: "",
+        turn: true,
+        radius: 300,
+        duration: 60,
+        repeat: 1,
+
+      });
+
+      $(".circle-2").circleText({
+        glue: "",
+        turn: true,
+        radius: 400,
+        padding:0,
+        duration: 400,
+        repeat: 1,
+      });
+
+      $(".circle-3").circleText({
+        glue: "",
+        turn: true,
+        radius: 100,
+        padding:0,
+        duration: 30,
+        repeat: 1,
+      });
+
+      $(".circle-4").circleText({
+        glue: "",
+        turn: true,
+        radius: 200,
+        padding:0,
+        duration: 60,
+        repeat: 1,
+      });
+
+    </script>
+
   <!-- menu -->
   <script>
 
