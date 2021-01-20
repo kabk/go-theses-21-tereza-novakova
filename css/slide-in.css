@@ -36,7 +36,7 @@ article,
 }
 
 p {
-  font-size: 3em;
+  font-size: 2em;
   padding-bottom: 10%;
 }
 
@@ -46,7 +46,7 @@ p {
 	position: sticky;
 	height: 100%;
   top: 2vw;
-  font-size: 3em;
+  font-size: 2em;
   margin-top: 5%;
   display: inline;
   padding:1%;
@@ -68,7 +68,7 @@ h2{
   -webkit-box-decoration-break: clone;
 box-decoration-break: clone;
   padding:1%;
-    line-height:1.5em;
+    line-height:2em;
 }
 h3{
   color:black;
@@ -77,12 +77,13 @@ h3{
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   padding:1%;
-  font-size: 1.7em;
+  font-size: 2em;
   line-height:1em;
 }
 h4{
   background-color: black;
   color:white;
+    font-size: 2em;
 }
 
 .sub-title{
@@ -90,7 +91,7 @@ h4{
 	position: sticky;
 	height: 100%;
   top: 7%;
-  font-size: 3em;
+  font-size: 2em;
 	background-color: white;
   color:BLUE;
   font-family: "bold";
@@ -150,14 +151,14 @@ box-decoration-break: clone;
 
 }
 #wrapper span {
-  font-size: 3em;
+  font-size: 2em;
   color:red;
 }
 p2{
     padding: 5px;
     padding-left: 2%;
     display: inherit;
-    font-size: 4em;
+    font-size: 3.5em;
     text-decoration: underline;
 }
 
@@ -165,7 +166,7 @@ p3{
     width: 90vw;
     padding-left: 20vw;
     display: inline-block;
-    font-size: 3.6em;
+    font-size: 2em;
     font-family: "bold";
 
 }
@@ -181,7 +182,7 @@ nav a {
 
 /* slider chapter 4 */
 p4{
-    font-size: 4em;
+    font-size: 2em;
   text-align: center;
   color: black;
 
@@ -190,7 +191,7 @@ z-index: 2;
 }
 p5 {
     font-family: "bold";
-  font-size: 3em;
+  font-size: 2em;
   padding-bottom: 10%;
 }
 
@@ -205,7 +206,7 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display: block;
-font-size: 3em;
+font-size: 2em;
 margin-top: 2%;
 padding: 6px;
 }
@@ -221,7 +222,7 @@ border-style: solid;
 
 z-index: 2;
 display: block;
-font-size: 3em;
+font-size: 2em;
 margin-top: 2%;
 padding: 6px;
 }
@@ -236,7 +237,7 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display: list-item;
-font-size: 3em;
+font-size: 2em;
 margin-top: 2%;
 padding: 6px;
 }
@@ -250,13 +251,13 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display:block;
-font-size: 3em;
+font-size: 2em;
 margin-top: 2%;
 padding: 6px;
 color:black;
 }
 p11 {
-  font-size: 3em;
+  font-size: 2em;
   font-family: "bold";
   padding-bottom: 10%;
 }
@@ -293,7 +294,7 @@ p11 {
 .control_prev,
 .control_next {
 background-color: inherit;
-  font-size: 1.3em;
+  font-size: 2em;
   top: 95%;
 
   z-index: 999;
