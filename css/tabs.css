@@ -15,7 +15,7 @@
 
 .tabs {
   position: relative;
-  min-height: 80vh;
+  min-height: 75vh;
   clear: both;
   /* margin-top:8%; */
   margin-bottom:5%;
@@ -25,7 +25,6 @@
   float: left;
   margin:auto;
   margin-left:11%;
-  min-height: 95vh;
   font-size: 1.2em;
 }
 .tab label {
@@ -35,7 +34,7 @@
   border-radius: 6px; */
   position: relative;
   align-items: center;
-  font-size: 3em;
+  font-size: 2em;
 }
 .tab [type="radio"] {
   opacity: 0;
