@@ -32,6 +32,7 @@ body {
 	margin-right:2vw;
   -webkit-text-size-adjust: 100%;
 }
+target-element { -webkit-text-size-adjust:80%; } 
 
 #container {
   width:500px;
