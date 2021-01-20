@@ -300,6 +300,11 @@ color:black;
     line-height: 1.3em;
 }
 
+p15 {
+  font-size: 1em;
+  font-family: "bold";
+}
+
 
 #slider {
   position: relative;
