@@ -40,7 +40,8 @@ body {
 	max-width: 96%;
   animation: spin 50s linear infinite;
   /* background-image: radial-gradient(rgb(255,255,255,0.6),rgb(255,255,255,0.3), rgb(255,255,255,0.09),rgb(255,255,255,0),rgb(255,255,255,0)); */
-	background-image: radial-gradient(rgb(255,255,255,1),rgb(255,255,255,0.9),rgb(255,255,255,0));
+	background-image: radial-gradient(circle closest-side at center, rgba(255, 255, 255, 1) 25%, rgba(255, 255, 255, 0.8) 50%, 75%, rgba(0, 0, 0, 0) 100%);
+  border-radius: 50%;
 }
 
 #container:hover {
@@ -54,13 +55,12 @@ body {
 }
 
 .item {
-	border-radius: 50%;
+	border-radius: 100%;
 	position: absolute;
   animation: spin 50s linear infinite reverse;
 /* background-image: radial-gradient(rgb(0,0,255,0.6),rgb(0,0,255,0.3), rgb(0,0,255,0.09),rgb(0,0,255,0),rgb(0,0,255,0)); */
 	z-index: 900;
-	background-image: radial-gradient(rgb(255,255,255,1),rgb(255,255,255,1),rgb(255,255,255,0.9),rgb(255,255,255,0));
-
+  background-image: radial-gradient(circle closest-side at center, rgba(255, 255, 255, 1) 25%, rgba(255, 255, 255, 1) 80%, rgba(0, 0, 0, 0) 100%);
 }
 
 
@@ -88,9 +88,9 @@ body {
 	max-width: 96vw;
   margin: 0 auto;
   position: relative;
-	left:40vw;
-	top:30vh;
-
+	left:50vw;
+	top:50vh;
+  z-index: 999;
 }
 
 .circle {
@@ -103,9 +103,9 @@ body {
   -moz-transform: scale(0);
   transform: scale(0);
 
-  -webkit-transition: all 0.4s ease-out;
+  /* -webkit-transition: all 0.4s ease-out;
   -moz-transition: all 0.4s ease-out;
-  transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out; */
 }
 
 .open.circle {
@@ -115,6 +115,7 @@ body {
   -moz-transform: scale(1);
   transform: scale(1);
 		z-index: 990;
+    /* postition where it pops out */
 		left: -40px;
     top: -40px;
 }
@@ -157,8 +158,8 @@ body {
 
 .menu-button{
 position: absolute;
-top: -65px;
-left: -65px;
+top: -75px;
+left: -85px;
 text-decoration: none;
 text-align: center;
 color: black;
