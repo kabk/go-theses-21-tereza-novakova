@@ -198,6 +198,17 @@ p4{
 z-index: 2;
   display: inline-block;
 }
+
+p14{
+    font-size: 3.3em;
+    line-height: 1.4em;
+  text-align: center;
+  color: black;
+
+z-index: 2;
+  display: inline-block;
+}
+
 p5 {
     font-family: "bold";
   font-size: 2em;
@@ -301,7 +312,6 @@ color:black;
   position: relative;
   margin: 0;
   padding: 0;
-  height: 100vh;
   list-style: none;
   z-index: 2;
 }
@@ -313,7 +323,7 @@ color:black;
   margin: 0;
   padding:0;
   width: 92vw;
-  height: 100vh;
+  height: 80vh;
 
   z-index: 2;
 }
@@ -321,7 +331,7 @@ color:black;
 .control_prev,
 .control_next {
 background-color: inherit;
-  font-size: 2em;
+  font-size: 1.6em;
   top: 95%;
 
   z-index: 999;
