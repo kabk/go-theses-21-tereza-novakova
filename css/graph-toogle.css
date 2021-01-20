@@ -60,50 +60,15 @@ button:hover {
 
 .graph-1{
 position: relative;
-height: 110vh;
-width: 96vw;
-border: 1px solid #000;
+height: 100vh;
+width: 92vw;
 border-radius: 6px;
 margin-bottom: 5%;
-
-}
-.graph-2 {
-  position: relative;
-  height: 120vh;
-  width: 96vw;
-  border: 1px solid #000;
-  border-radius: 6px;
-  margin-bottom: 5%;
 }
 
-.graph-3 {
-    position: relative;
-    height: 250vh;
-    width: 96vw;
-    border: 1px solid #000;
-    border-radius: 6px;
-    margin-bottom: 5%;
-  }
-
-  .graph-4 {
-      position: relative;
-      height: 120vh;
-      width: 96vw;
-      border: 1px solid #000;
-      border-radius: 6px;
-      margin-bottom: 5%;
-    }
-    .graph-5 {
-        position: relative;
-        height: 60vh;
-        width: 96vw;
-        border: 1px solid #000;
-        border-radius: 6px;
-        margin-bottom: 5%;
-      }
 
 .container {
-  color: blue;
-  padding-left: 18%;
+  color: purple;
+  padding-left: 16%;
   position:absolute;
 }
