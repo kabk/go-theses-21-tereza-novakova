@@ -81,12 +81,12 @@ p5{
   border-color: black;
   border-style: solid;
 border-radius: 6px;
-  font-size: 4em;
-  line-height: 1.2em;
+  font-size: 3.3em;
+  line-height: 1.5em;
 }
 
 p6{
-    line-height: 1.2em;
+    line-height: 1.5em;
   font-size: 3em;
   margin-top: 1vh;
   padding-bottom: 10%;
@@ -98,7 +98,7 @@ p6{
   border-color: black;
   border-style: solid;
 border-radius: 6px;
-  font-size: 4em;
+  font-size: 3.3em;
 }
 
 
