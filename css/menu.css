@@ -176,7 +176,7 @@ z-index: 992;
 /* fixed down */
 .fixed-right{
 	width: auto;
-	padding:0px 20px 0px 20px;
+	padding:0px 10px 0px 10px;
 	background-color: white;
 	bottom: 2vw;
     display: block;
@@ -184,11 +184,16 @@ z-index: 992;
 		z-index: 600;
 		right:4vw;
 			border-radius: 6px;
+      border-radius: 6px;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 6px;
+      border-color:purple;
 }
 
 .fixed-left{
 	width: auto;
-	padding:0px 20px 0px 20px;
+	padding:0px 10px 0px 10px;
 	background-color: white;
 	bottom: 2vw;
     display: block;
@@ -196,6 +201,10 @@ z-index: 992;
 		z-index: 600;
 		left:4vw;
 			border-radius: 6px;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 6px;
+      border-color:purple;
 }
 
 .fixed-cross{
@@ -205,6 +214,7 @@ z-index: 992;
 	border-width: 1px;
 	border-style: solid;
 	border-radius: 6px;
+  border-color:purple;
 	top: 1.2vh;
     display: block;
     position: fixed;
