@@ -32,11 +32,11 @@ body {
 	margin-right:2vw;
   -webkit-text-size-adjust: 100%;
 }
-target-element { -webkit-text-size-adjust:80%; } 
+target-element { -webkit-text-size-adjust:80%; }
 
 #container {
-  width:500px;
-  height: 500px;
+  width:250px;
+  height: 250px;
 	padding: 50px;
   /* margin: 10%; */
 	max-width: 96%;
@@ -69,7 +69,7 @@ target-element { -webkit-text-size-adjust:80%; }
 
 .item .item-text {
   visibility: hidden;
-  width:500px;
+  width:250px;
   text-align: left;
   border-radius: 6px;
 	padding-top: 50px;
@@ -90,14 +90,14 @@ target-element { -webkit-text-size-adjust:80%; }
 	max-width: 96vw;
   margin: 0 auto;
   position: relative;
-	left:50vw;
-	top:50vh;
+	left:25vw;
+	top:25vh;
   z-index: 999;
 }
 
 .circle {
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
   opacity: 0;
 
 
@@ -118,36 +118,36 @@ target-element { -webkit-text-size-adjust:80%; }
   transform: scale(1);
 		z-index: 990;
     /* postition where it pops out */
-		left: -40px;
-    top: -40px;
+    left: -0px;
+    top: -0px;
 }
 
 .circle:before {
   content: "";
   position: absolute;
-	border: 4px dashed #000;
+	border: 2px dashed #000;
 	border-radius: 50%;
-  top: 80px;
+  top: 40px;
   bottom: 0;
-  left: 80px;
+  left: 40px;
   right: 0;
-	width: 420px;
-	height:420px;
+	width: 210px;
+	height:210px;
 
 }
 
 .circle a {
   text-decoration: none;
   display: block;
-  height: 70px;
-  width:70px;
-  line-height: 80px;
-  margin-left: -40px;
-  margin-top: -40px;
+  height: 35px;
+  width:35px;
+  line-height: 40px;
+  margin-left: -20px;
+  margin-top: -20px;
   position: absolute;
   text-align: center;
 	z-index: 991;
-  font-size: 3em;
+  font-size: 1em;
   border: none;
   cursor: pointer;
   outline: inherit;
@@ -160,17 +160,17 @@ target-element { -webkit-text-size-adjust:80%; }
 
 .menu-button{
 position: absolute;
-top: -75px;
-left: -85px;
+top: 100px;
+    left: 40px;
 text-decoration: none;
 text-align: center;
 color: black;
 border-radius: 50%;
 display: block;
-margin: 250px;
+    padding: 20px;
 
 /* animation: spin 15s linear infinite reverse; */
-font-size: 3em;
+font-size: 1em;
 z-index: 992;
 }
 
@@ -222,7 +222,7 @@ z-index: 992;
     position: fixed;
 		z-index: 600;
 		right:4vw;
-font-size: 0.8em;
+font-size: 1em;
 
 }
 
