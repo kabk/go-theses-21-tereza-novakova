@@ -52,7 +52,7 @@ p {
   margin-top: 5%;
   display: inline;
   padding:1%;
-  line-height:1.8em;
+  line-height:1.3em;
   box-decoration-break: clone;
   z-index: 10;
 }
@@ -114,7 +114,7 @@ article span{
   -webkit-box-decoration-break: clone;
 box-decoration-break: clone;
   padding:1%;
-    line-height:1.5em;
+    line-height:1.3em;
     font-style: italic;
 }
 
