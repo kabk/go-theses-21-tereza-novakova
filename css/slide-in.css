@@ -38,7 +38,7 @@ article,
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
   padding-bottom: 10%;
 }
 
@@ -48,7 +48,7 @@ p {
 	position: sticky;
 	height: 100%;
   top: 2vw;
-  font-size: 1em;
+  font-size: 1.2em;
   margin-top: 5%;
   display: inline;
   padding:1%;
@@ -87,7 +87,7 @@ button h3{
 h4{
   background-color: black;
   color:white;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .sub-title{
@@ -95,7 +95,7 @@ h4{
 	position: sticky;
 	height: 100%;
   top: 7%;
-  font-size: 1em;
+  font-size: 1.2em;
 	background-color: white;
   color:BLUE;
   font-family: "bold";
@@ -156,14 +156,14 @@ box-decoration-break: clone;
 
 }
 #wrapper span {
-  font-size: 1em;
+  font-size: 1.2em;
   color:red;
 }
 p2{
     padding: 5px;
     padding-left: 2%;
     display: inherit;
-    font-size: 1em;
+    font-size: 1.2em;
     text-decoration: underline;
 }
 
@@ -171,7 +171,7 @@ p3{
     width: 90vw;
     padding-left: 20vw;
     display: inline-block;
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: "bold";
 
 }
@@ -195,7 +195,7 @@ nav a {
 
 /* slider chapter 4 */
 p4{
-    font-size: 1em;
+    font-size: 1.2em;
   text-align: center;
   color: black;
 
@@ -215,7 +215,7 @@ z-index: 2;
 
 p5 {
     font-family: "bold";
-  font-size: 1em;
+  font-size: 1.2em;
   padding-bottom: 10%;
 }
 
@@ -230,7 +230,7 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display: block;
-font-size: 1em;
+font-size: 1.2em;
 margin-top: 2%;
 padding: 6px;
 line-height: 1.8em;
@@ -246,7 +246,7 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display: block;
-font-size: 1em;
+font-size: 1.2em;
 margin-top: 2%;
 padding: 6px;
 line-height: 1.8em;
@@ -276,14 +276,14 @@ border-style: solid;
   border-radius: 6px;
 z-index: 2;
 display:block;
-font-size: 1em;
+font-size: 1.2em;
 margin-top: 2%;
 padding: 6px;
 color:black;
     line-height: 1.3em;
 }
 p11 {
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: "bold";
   padding-bottom: 10%;
 }
@@ -304,7 +304,7 @@ color:black;
 }
 
 p15 {
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: "bold";
 }
 
@@ -339,7 +339,7 @@ p15 {
 .control_prev,
 .control_next {
 background-color: inherit;
-  font-size: 1em;
+  font-size: 1.2em;
   top: 95%;
 
   z-index: 999;
