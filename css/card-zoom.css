@@ -52,7 +52,7 @@
     border-radius: 6px;
     height:45vh;
     z-index: 2;
-    padding:20px;
+    padding:2px;
 }
 
 .wrapper img {
@@ -66,8 +66,8 @@
 
 }
 .expanded p {
-    font-size: 7em;
-    line-height: 1.4em;
+  font-size: 2.5em;
+  line-height: 1.3em;
     height:auto;
 }
 
@@ -125,7 +125,7 @@ border-radius: 6px;
     border-radius: 40px;
     height:30vh;
     z-index: 2;
-    padding:20px;
+    padding:2px;
 }
 
 .wrapper-1 img {
@@ -138,8 +138,8 @@ border-radius: 6px;
     height:50vh !important;
 }
 .expanded-1 p {
-    font-size: 8em;
-    line-height: 1em;
+  font-size: 2.5em;
+  line-height: 1.3em;
     height:auto;
     padding-bottom: 0;
 }
