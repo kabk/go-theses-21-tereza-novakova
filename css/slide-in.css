@@ -15,10 +15,12 @@
 
 body {
   font-family: "saol";
+   -webkit-overflow-scrolling: touch;
 }
 
 html{
   scroll-behavior: smooth;
+   -webkit-overflow-scrolling: touch;
 }
 
 article {
