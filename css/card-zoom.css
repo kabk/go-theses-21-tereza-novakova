@@ -33,7 +33,7 @@
 
 #wrapper {
   width:97%;
-  padding-top: 180px;
+  padding-top: 30px;
 }
 .wrapper {
     width:97%;
@@ -52,12 +52,16 @@
     border-radius: 6px;
     height:45vh;
     z-index: 2;
-    padding:2px;
+    padding:10px;
 }
 
 .wrapper img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   height:auto;
-  width:100%;
+  width:90%;
+  padding-top: 6%;
 }
 
 .expanded {
@@ -70,35 +74,37 @@
   line-height: 1.3em;
     height:auto;
 }
+.expanded img {
+    width:50%;
+      padding-top: 8%;
+  }
+
 
 p5{
     width: 77vw;
-    padding: 30px;
+    padding: 10px;
     margin-left: 18vw;
     display: block;
-    font-size: 3em;
   border-width: 1px;
   border-color: black;
   border-style: solid;
 border-radius: 6px;
-  font-size: 3.3em;
-  line-height: 1.5em;
+  font-size: 1.2em;
+  line-height: 1.4em;
 }
 
 p6{
-    line-height: 1.5em;
-  font-size: 3em;
+    line-height: 1.4em;
   margin-top: 1vh;
   padding-bottom: 10%;
     width: 77vw;
-    padding: 30px;
+    padding: 10px;
     display: block;
-    font-size: 3em;
   border-width: 1px;
   border-color: black;
   border-style: solid;
 border-radius: 6px;
-  font-size: 3.3em;
+  font-size: 1.2em;
 }
 
 
