@@ -180,7 +180,8 @@ p13{
     width: 90vw;
     padding-left: 20vw;
     display: inline-block;
-    font-size: 3.1em;
+    font-size: 1.2em;
+    line-height: 1.4em;
     font-family: "bold";
 }
 
