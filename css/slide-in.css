@@ -282,6 +282,22 @@ padding: 6px;
 color:black;
     line-height: 1.3em;
 }
+p16{
+    font-family: "italic";
+  text-align: center;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+  border-radius: 6px;
+z-index: 2;
+display:block;
+font-size: 1em;
+margin-top: 2%;
+padding: 6px;
+color:black;
+    line-height: 1.3em;
+}
+
 p11 {
   font-size: 1.2em;
   font-family: "bold";
