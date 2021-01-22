@@ -55,6 +55,7 @@
     padding:10px;
 }
 
+
 .wrapper img {
   margin-left: auto;
   margin-right: auto;
@@ -67,7 +68,6 @@
 .expanded {
     width:94% !important;
     height:100% !important;
-
 }
 .expanded p {
   font-size: 2.5em;
