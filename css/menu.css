@@ -85,13 +85,10 @@ target-element { -webkit-text-size-adjust:80%; }
 /* new floating menu */
 /* Demo by http://creative-punch.net */
 .circular-menu {
-  /* width: 600px;
-  height: 600px; */
+
 	max-width: 96vw;
   margin: 0 auto;
   position: relative;
-	left:25vw;
-	top:25vh;
   z-index: 999;
 }
 
