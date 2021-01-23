@@ -25,13 +25,7 @@ html {
 
 article {
   margin: auto;
-  display: inline-table;
-  overflow: auto;
-  position: -webkit-sticky;
-  position: -moz-sticky;
-  position: -o-sticky;
-  position: -ms-sticky;
-  position: sticky;
+  display:block;
 }
 
 blockquote {
@@ -42,6 +36,7 @@ blockquote {
 article,
 .emptyBlocks {
   width: auto;
+  margin: 2%;
 }
 
 p {
@@ -68,7 +63,7 @@ p {
 }
 
 h1 {
-  background-color: red;
+  background-color: black;
   color: white;
 }
 
