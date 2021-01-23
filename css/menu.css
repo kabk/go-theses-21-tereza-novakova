@@ -62,7 +62,7 @@ target-element { -webkit-text-size-adjust:80%; }
   animation: spin 50s linear infinite reverse;
 /* background-image: radial-gradient(rgb(0,0,255,0.6),rgb(0,0,255,0.3), rgb(0,0,255,0.09),rgb(0,0,255,0),rgb(0,0,255,0)); */
 	z-index: 900;
-  background-image: radial-gradient(circle closest-side at center, rgba(255, 255, 255, 1) 25%, rgba(255, 255, 255, 0.8) 50%, 75%, rgba(0, 0, 0, 0) 100%);
+  background-image: radial-gradient(circle closest-side at center, rgba(255, 255, 255, 1) 25%, rgba(255, 255, 255, 0.8) 50%, 75%, rgba(255, 255, 255, 0) 100%);
   }
 
 
@@ -158,7 +158,7 @@ target-element { -webkit-text-size-adjust:80%; }
 .menu-button{
 position: absolute;
 top: 80px;
-left: 55px;
+left: 60px;
 width:50%;
 text-decoration: none;
 text-align: center;
