@@ -176,9 +176,9 @@ z-index: 992;
 /* fixed down */
 .fixed-right{
 	width: auto;
-	padding:0px 8px 0px 10px;
+	padding:0px 10px 0px 10px;
 	background-color: white;
-	bottom: 2%;
+	bottom: 1vh;
     display: block;
     position: fixed;
 		z-index: 600;
@@ -191,9 +191,9 @@ z-index: 992;
 
 .fixed-left{
 	width: auto;
-	padding:0px 8px 0px 10px;
+	padding:0px 10px 0px 10px;
 	background-color: white;
-	bottom: 2%;
+	bottom: 1vh;
     display: block;
     position: fixed;
 		z-index: 600;
@@ -224,4 +224,5 @@ font-size: 1em;
 		text-decoration: underline;
     padding-right: 10px;
     padding-left:10px;
+    font-size: 1.1em;
 }
