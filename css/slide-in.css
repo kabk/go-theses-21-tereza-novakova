@@ -46,11 +46,11 @@ p {
 
 /* .category, */
 .title {
-  position: -webkit-sticky;
+  /* position: -webkit-sticky;
   position: -moz-sticky;
   position: -o-sticky;
   position: -ms-sticky;
-  position: sticky;
+  position: sticky; */
   height: 100%;
   top: 2vw;
   font-size: 1.2em;
@@ -65,6 +65,12 @@ p {
 h1 {
   background-color: black;
   color: white;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
+
 }
 
 h2 {
@@ -77,6 +83,11 @@ h2 {
   box-decoration-break: clone;
   padding: 1%;
   line-height: 2em;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
 }
 
 button h3 {
