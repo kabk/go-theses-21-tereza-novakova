@@ -156,7 +156,7 @@ span{
 }
 
 .circle a:active {
-	color:red;
+	color:purple;
 }
 
 .menu-button {
@@ -179,7 +179,7 @@ span{
 	z-index: 900;
 }
 .menu-button p {
-	color:red;
+	color:purple;
 }
 
 
