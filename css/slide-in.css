@@ -15,26 +15,27 @@
 
 body {
   font-family: "saol";
-   -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
 }
 
-html{
+html {
   scroll-behavior: smooth;
-   -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
 }
 
 article {
-	margin: auto;
+  margin: auto;
 }
-blockquote{
-  width:90vw;
-  padding-left:10vw;
+
+blockquote {
+  width: 90vw;
+  padding-left: 10vw;
 }
 
 article,
 .emptyBlocks {
-	width: auto;
-	margin: 2%;
+  width: auto;
+  margin: 2%;
 }
 
 p {
@@ -43,116 +44,110 @@ p {
 }
 
 /* .category, */
-.title{
-	position: -webkit-sticky;
-position: -moz-sticky;
-position: -o-sticky;
-position: -ms-sticky;
-position: sticky;
-	height: 100%;
+.title {
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
+  height: 100%;
   top: 2vw;
   font-size: 1.2em;
   margin-top: 5%;
   display: inline;
-  padding:1%;
-  line-height:1.3em;
+  padding: 1%;
+  line-height: 1.3em;
   box-decoration-break: clone;
   z-index: 10;
 }
 
-h1{
+h1 {
   background-color: black;
-  color:white;
+  color: white;
 }
 
-h2{
+h2 {
   background-color: white;
-  color:black;
+  color: black;
   border: 1px solid black;
   border-radius: 2px;
   /* to makeit end at the end of text on line */
   -webkit-box-decoration-break: clone;
-box-decoration-break: clone;
-  padding:1%;
-    line-height:2em;
+  box-decoration-break: clone;
+  padding: 1%;
+  line-height: 2em;
 }
-button h3{
-  color:blue;
+
+button h3 {
+  color: blue;
   text-decoration: underline;
-  font-family:"italic";
+  font-family: "italic";
   /* to makeit end at the end of text on line */
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
-  padding:1%;
-  font-size:0.5em;
-  line-height:1em;
-}
-h4{
-  background-color: black;
-  color:white;
-    font-size: 1.2em;
+  padding: 1%;
+  font-size: 0.5em;
+  line-height: 1em;
 }
 
-.sub-title{
+h4 {
+  background-color: black;
+  color: white;
+  font-size: 1.2em;
+}
+
+.sub-title {
   position: -webkit-sticky;
-position: -moz-sticky;
-position: -o-sticky;
-position: -ms-sticky;
-position: sticky;
-	height: 100%;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
+  height: 100%;
   top: 7%;
   font-size: 1.2em;
-	background-color: white;
-  color:BLUE;
+  background-color: white;
+  color: BLUE;
   font-family: "bold";
   margin-top: 5%;
   display: inline;
-  padding:1%;
-  line-height:2em;
+  padding: 1%;
+  line-height: 2em;
   box-decoration-break: clone;
   z-index: 10;
 }
 
-article span{
-	border: 1px solid black;
+article span {
+  border: 1px solid black;
   border-radius: 2px;
   /* to makeit end at the end of text on line */
   -webkit-box-decoration-break: clone;
-box-decoration-break: clone;
-  padding:1%;
-    line-height:1.3em;
-    font-style: italic;
+  box-decoration-break: clone;
+  padding: 1%;
+  line-height: 1.3em;
+  font-style: italic;
 }
 
 .emptyBlocks {
-	height: 200px;
-	margin: 40px auto;
+  height: 200px;
+  margin: 40px auto;
   background-color: white;
 }
-
 
 /* not using the enymore but keeping it here for now */
 /* .category {
 	top: 0;
   font-size: 3em;
 } */
-
-
-
-
 /* sticky one letter for creating attention */
 #sticky {
   position: -webkit-sticky;
-position: -moz-sticky;
-position: -o-sticky;
-position: -ms-sticky;
-position: sticky;
-
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
   width: 20vw;
   height: 100px;
-
   top: 20%;
-
   z-index: 1;
   display: inline-block;
   /* ustify-content: center; */
@@ -162,36 +157,36 @@ position: sticky;
 #wrapper {
   width: 20vw;
   position: absolute;
-
 }
+
 #wrapper span {
   font-size: 1.2em;
-  color:purple;
-}
-p2{
-    /* padding: 5px; */
-    padding-left: 2%;
-    display: inherit;
-    font-size: 1.1em;
-    text-decoration: underline;
+  color: purple;
 }
 
-p3{
-    width: 90vw;
-    padding-left: 20vw;
-    display: inline-block;
-    font-size: 1.2em;
-    font-family: "bold";
-
+p2 {
+  /* padding: 5px; */
+  padding-left: 2%;
+  display: inherit;
+  font-size: 1.1em;
+  text-decoration: underline;
 }
 
-p13{
-    width: 90vw;
-    padding-left: 20vw;
-    display: inline-block;
-    font-size: 1.2em;
-    line-height: 1.4em;
-    font-family: "bold";
+p3 {
+  width: 90vw;
+  padding-left: 20vw;
+  display: inline-block;
+  font-size: 1.2em;
+  font-family: "bold";
+}
+
+p13 {
+  width: 90vw;
+  padding-left: 20vw;
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  font-family: "bold";
 }
 
 /* navigator literature */
@@ -201,25 +196,21 @@ nav a {
   text-decoration: none;
 }
 
-
-
 /* slider chapter 4 */
-p4{
-    font-size: 1.2em;
+p4 {
+  font-size: 1.2em;
   text-align: center;
   color: black;
-
-z-index: 2;
+  z-index: 2;
   display: inline-block;
 }
 
-p14{
+p14 {
   font-size: 1.2em;
-    line-height: 1.4em;
+  line-height: 1.4em;
   text-align: center;
   color: black;
-
-z-index: 2;
+  z-index: 2;
   display: inline-block;
 }
 
@@ -229,82 +220,83 @@ p5 {
 }
 
 /* my poem  */
-p8{
+p8 {
   text-align: center;
   color: black;
-border-width: 1px;
-border-color: black;
-border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
   font-family: "bold";
   border-radius: 6px;
-z-index: 2;
-display: block;
-font-size: 1.2em;
-margin-top: 2%;
-padding: 6px;
-line-height: 1.8em;
+  z-index: 2;
+  display: block;
+  font-size: 1.2em;
+  margin-top: 2%;
+  padding: 6px;
+  line-height: 1.8em;
 }
 
-p7{
+p7 {
   text-align: center;
   color: grey;
-    font-family: "bold";
-border-width: 1px;
-border-color: black;
-border-style: solid;
+  font-family: "bold";
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
   border-radius: 6px;
-z-index: 2;
-display: block;
-font-size: 1.2em;
-margin-top: 2%;
-padding: 6px;
-line-height: 1.8em;
+  z-index: 2;
+  display: block;
+  font-size: 1.2em;
+  margin-top: 2%;
+  padding: 6px;
+  line-height: 1.8em;
 }
 
-p9{
+p9 {
   text-align: center;
   color: black;
-border-width: 1px;
-border-color: purple;
-border-style: solid;
+  border-width: 1px;
+  border-color: purple;
+  border-style: solid;
   border-radius: 6px;
-z-index: 2;
-display: list-item;
-font-size: 1em;
-margin-top: 2%;
-padding: 10px;
-line-height: 1.3em;
+  z-index: 2;
+  display: list-item;
+  font-size: 1em;
+  margin-top: 2%;
+  padding: 10px;
+  line-height: 1.3em;
 }
 
-p10{
-    font-family: "italic";
+p10 {
+  font-family: "italic";
   text-align: center;
-border-width: 1px;
-border-color: black;
-border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
   border-radius: 6px;
-z-index: 2;
-display:block;
-font-size: 1.2em;
-margin-top: 2%;
-padding: 6px;
-color:black;
-    line-height: 1.3em;
+  z-index: 2;
+  display: block;
+  font-size: 1.2em;
+  margin-top: 2%;
+  padding: 6px;
+  color: black;
+  line-height: 1.3em;
 }
-p16{
-    font-family: "italic";
+
+p16 {
+  font-family: "italic";
   text-align: center;
-border-width: 1px;
-border-color: black;
-border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
   border-radius: 6px;
-z-index: 2;
-display:block;
-font-size: 1em;
-margin-top: 2%;
-padding: 6px;
-color:black;
-    line-height: 1.3em;
+  z-index: 2;
+  display: block;
+  font-size: 1em;
+  margin-top: 2%;
+  padding: 6px;
+  color: black;
+  line-height: 1.3em;
 }
 
 p11 {
@@ -312,27 +304,27 @@ p11 {
   font-family: "bold";
   padding-bottom: 10%;
 }
-p12{
-    font-family: "italic";
+
+p12 {
+  font-family: "italic";
   text-align: center;
-border-width: 1px;
-border-color: black;
-border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
   border-radius: 6px;
-z-index: 2;
-display:block;
-font-size: 1em;
-margin-top: 2%;
-padding: 6px;
-color:black;
-    line-height: 1.3em;
+  z-index: 2;
+  display: block;
+  font-size: 1em;
+  margin-top: 2%;
+  padding: 6px;
+  color: black;
+  line-height: 1.3em;
 }
 
 p15 {
   font-size: 1em;
   font-family: "bold";
 }
-
 
 #slider {
   position: relative;
@@ -354,32 +346,28 @@ p15 {
   display: block;
   float: left;
   margin: 0;
-  padding:0;
+  padding: 0;
   width: 92vw;
   height: 80vh;
-
   z-index: 2;
 }
 
 .control_prev,
 .control_next {
-background-color: inherit;
+  background-color: inherit;
   font-size: 1em;
   top: 95%;
-
   z-index: 999;
   display: block;
-color:blue;
+  color: blue;
   width: auto;
   height: auto;
-text-decoration: underline;
+  text-decoration: underline;
   cursor: pointer;
   border: 0;
 }
 
-
 .control_next {
-margin: auto;
-display: inline-block;
-
+  margin: auto;
+  display: inline-block;
 }
