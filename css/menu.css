@@ -31,8 +31,13 @@ body {
 	margin-left:2vw;
 	margin-right:2vw;
   -webkit-text-size-adjust: 100%;
+  -webkit-overflow-scrolling: touch;
 }
 target-element { -webkit-text-size-adjust:80%; }
+
+div{
+  -webkit-overflow-scrolling: touch;
+}
 
 #container {
   width:250px;
