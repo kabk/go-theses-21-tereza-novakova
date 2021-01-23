@@ -25,6 +25,7 @@ html {
 
 article {
   margin: auto;
+  display:block;
 }
 
 blockquote {
