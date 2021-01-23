@@ -45,7 +45,10 @@ p {
 /* .category, */
 .title{
 	position: -webkit-sticky;
-	position: sticky;
+position: -moz-sticky;
+position: -o-sticky;
+position: -ms-sticky;
+position: sticky;
 	height: 100%;
   top: 2vw;
   font-size: 1.2em;
@@ -92,7 +95,10 @@ h4{
 
 .sub-title{
   position: -webkit-sticky;
-	position: sticky;
+position: -moz-sticky;
+position: -o-sticky;
+position: -ms-sticky;
+position: sticky;
 	height: 100%;
   top: 7%;
   font-size: 1.2em;
@@ -136,8 +142,11 @@ box-decoration-break: clone;
 
 /* sticky one letter for creating attention */
 #sticky {
-  position: sticky;
   position: -webkit-sticky;
+position: -moz-sticky;
+position: -o-sticky;
+position: -ms-sticky;
+position: sticky;
 
   width: 20vw;
   height: 100px;
