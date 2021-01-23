@@ -25,9 +25,13 @@ html {
 
 article {
   margin: auto;
-  display:unset;
+  display: inline-table;
   overflow: auto;
-  position: relative;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
 }
 
 blockquote {
@@ -64,7 +68,7 @@ p {
 }
 
 h1 {
-  background-color: black;
+  background-color: red;
   color: white;
 }
 
