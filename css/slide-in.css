@@ -166,6 +166,16 @@ article span {
   align-items: left;
 }
 
+#sticky-a {
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
+  display: inline-block;
+  /* ustify-content: center; */
+}
+
 #wrapper {
   width: 20vw;
   position: absolute;
