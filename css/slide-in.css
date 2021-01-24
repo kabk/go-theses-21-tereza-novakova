@@ -254,29 +254,29 @@ p8 {
   border-color: black;
   border-style: solid;
   font-family: "bold";
-  border-radius: 6px;
+  border-radius: 2px;
   z-index: 2;
   display: block;
   font-size: 1.2em;
   margin-top: 2%;
   padding: 6px;
-  line-height: 1.8em;
+  line-height: 1.2em;
 }
 
 p7 {
   text-align: center;
-  color: grey;
+  color: purple;
   font-family: "bold";
   border-width: 1px;
   border-color: black;
   border-style: solid;
-  border-radius: 6px;
+  border-radius: 2px;
   z-index: 2;
   display: block;
   font-size: 1.2em;
   margin-top: 2%;
   padding: 6px;
-  line-height: 1.8em;
+  line-height: 1.2em;
 }
 
 p9 {
@@ -285,13 +285,13 @@ p9 {
   border-width: 1px;
   border-color: purple;
   border-style: solid;
-  border-radius: 6px;
+  border-radius: 2px;
   z-index: 2;
   display: list-item;
   font-size: 1em;
   margin-top: 2%;
   padding: 10px;
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 
 p10 {
@@ -300,14 +300,14 @@ p10 {
   border-width: 1px;
   border-color: black;
   border-style: solid;
-  border-radius: 6px;
+  border-radius: 2px;
   z-index: 2;
   display: block;
   font-size: 1.2em;
   margin-top: 2%;
-  padding: 6px;
+  padding: 2px;
   color: black;
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 
 p16 {
@@ -316,14 +316,14 @@ p16 {
   border-width: 1px;
   border-color: black;
   border-style: solid;
-  border-radius: 6px;
+  border-radius: 2px;
   z-index: 2;
   display: block;
   font-size: 1em;
   margin-top: 2%;
   padding: 6px;
   color: black;
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 
 p11 {
@@ -345,7 +345,7 @@ p12 {
   margin-top: 2%;
   padding: 6px;
   color: black;
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 
 p15 {
