@@ -162,7 +162,6 @@ article span {
   top: 20%;
   z-index: 1;
   display: inline-block;
-  /* ustify-content: center; */
   align-items: left;
 }
 
@@ -173,7 +172,8 @@ article span {
   position: -ms-sticky;
   position: sticky;
   display: inline-block;
-  /* ustify-content: center; */
+  height:100%;
+  width:100%;
 }
 
 #wrapper {
