@@ -171,6 +171,10 @@ article span {
   position: absolute;
 }
 
+#wrapper-a {
+  position: relative;
+}
+
 #wrapper span {
   font-size: 1.2em;
   color: purple;
