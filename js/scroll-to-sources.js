@@ -42,7 +42,7 @@ var stickyHeaders = (function() {
       if ($stickyPosition <= $window.scrollTop()) {
 
         var $nextSticky = $stickies.eq(i + 1),
-            $nextStickyPosition = $nextSticky.data('originalPosition') - $thisSticky.data('originalHeight');
+            $nextStickyPosition = $nextSticky.data('originalPosition');
 
         $thisSticky.addClass("fixed");
 
@@ -57,7 +57,7 @@ var stickyHeaders = (function() {
 
         $thisSticky.removeClass("fixed");
 
-        if ($prevSticky.length > 0 && $window.scrollTop() <= $thisSticky.data('originalPosition') - $thisSticky.data('originalHeight')) {
+        if ($prevSticky.length > 0 && $window.scrollTop() <= $thisSticky.data('originalPosition')) {
 
           $prevSticky.removeClass("absolute").removeAttr("style");
         }
