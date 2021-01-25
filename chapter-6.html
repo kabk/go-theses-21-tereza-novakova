@@ -26,16 +26,25 @@ color: transparent;
   color: black;
 }
 
-.sticky-container{
-  height:100%;
-  position:relative;
+.followMeBar {
+  background: #e64a19;
+  padding: 10px 20px;
+  position: relative;
+  z-index: 1;
+  color: #fff;
 }
-.sticky-box{
-  position: -webkit-sticky;
-  position: sticky;
+
+.followMeBar.fixed {
+  position: fixed;
   top: 0;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 0;
 }
-.sticky-box{height:100%; color:red;}
+
+.followMeBar.fixed.absolute {
+  position: absolute;
+}
 
 </style>
 </head>
@@ -74,7 +83,7 @@ color: transparent;
 <!-- slide in text starts here -->
 <article>
   <div class="sticky-container">
-         <div class="sticky-box">
+         <div class="followMeBar">
 <h1 class="title">6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EXISTENCE <br/>BECOMES DESIGN</h1>
 </div>
 <p><span>Does one even need to seek <br/>one’s own distinctive identity?</span></p>
@@ -82,7 +91,7 @@ color: transparent;
 </article>
 <article>
   <div class="sticky-container">
-         <div class="sticky-box">
+         <div class="followMeBar">
 <h2 class="title" id="privacy">6.1&nbsp;&nbsp;&nbsp;&nbsp;PRIVACY</h2>
 </div>
 <p class="blur" onclick="myFunction()">One’s positioning in society determines the well-being of the whole, the mutual performance grows into an overall legible image &emsp;&emsp;&emsp;&emsp;of the current human evolution, which, as&emsp;&emsp;&emsp;&emsp;the first generation, we are able to observe live. Thanks to technology,&emsp;&emsp;&emsp;&emsp;in the last 30 years the perception of information exponentially developed, together with it the general cultivation&emsp;&emsp;&emsp;&emsp;of our personas. Hypothetically everybody is a designer nowadays&emsp;&emsp;&emsp;&emsp;since society requires it, after all, one has to design one’s Self&emsp;&emsp;&emsp;&emsp;to present it in order to survive.&emsp;&emsp;&emsp;&emsp;<i> ‘The ultimate problem of design concerns not how I design the world outside, but how I design myself - or, rather, how I deal with the way in which the world designs me.’</i> <a href="sources.html#source-23">[23]</a> </p>
@@ -92,7 +101,7 @@ color: transparent;
 </article>
 <article>
   <div class="sticky-container">
-         <div class="sticky-box">
+         <div class="followMeBar">
 <h2 class="title" id="primitive">6.2&nbsp;&nbsp;&nbsp;PRIMITIVE AUTOMATIZATION</h2>
 </div>
 <p class="blur" onclick="myFunction()">The culture that we live in&emsp;&emsp;&emsp;&emsp;is characterized by its mobility and connection. We unite as a clan of social creatures,&emsp;&emsp;&emsp;&emsp;herd together as sheep or ants. We have to remember we are still the biological species,&emsp;&emsp;&emsp;&emsp;well-behaved animals, just with the most intricate network of systems. Not robots yet,&emsp;&emsp;&emsp;&emsp;nevertheless living in the reversed world&emsp;&emsp;&emsp;&emsp;in which we are voluntarily exchanging our privacy for comfort. To get it back one has to give up online existence,&emsp;&emsp;&emsp;&emsp;which means no smartphone, no apps, no online banking, no fb events, nothing. Seeking for identity offline,&emsp;&emsp;&emsp;&emsp;designing the private space&emsp;&emsp;&emsp;&emsp;where one has to identify as anything else than just a person.</p>
@@ -150,12 +159,73 @@ document.querySelector('.menu-button').onclick = function(e) {
 
 <!-- sticky -->
 <script>
+var stickyHeaders = (function() {
 
-var stickyElements = document.getElementsByClassName('sticky-box');
+  var $window = $(window),
+      $stickies;
 
-for (var i = stickyElements.length - 1; i >= 0; i--) {
-    Stickyfill.add(stickyElements[i]);
-}
+  var load = function(stickies) {
+
+    if (typeof stickies === "object" && stickies instanceof jQuery && stickies.length > 0) {
+
+      $stickies = stickies.each(function() {
+
+        var $thisSticky = $(this).wrap('<div class="followWrap" />');
+
+        $thisSticky
+            .data('originalPosition', $thisSticky.offset().top)
+            .data('originalHeight', $thisSticky.outerHeight())
+              .parent()
+              .height($thisSticky.outerHeight());
+      });
+
+      $window.off("scroll.stickies").on("scroll.stickies", function() {
+		  _whenScrolling();
+      });
+    }
+  };
+
+  var _whenScrolling = function() {
+
+    $stickies.each(function(i) {
+
+      var $thisSticky = $(this),
+          $stickyPosition = $thisSticky.data('originalPosition');
+
+      if ($stickyPosition <= $window.scrollTop()) {
+
+        var $nextSticky = $stickies.eq(i + 1),
+            $nextStickyPosition = $nextSticky.data('originalPosition') - $thisSticky.data('originalHeight');
+
+        $thisSticky.addClass("fixed");
+
+        if ($nextSticky.length > 0 && $thisSticky.offset().top >= $nextStickyPosition) {
+
+          $thisSticky.addClass("absolute").css("top", $nextStickyPosition);
+        }
+
+      } else {
+
+        var $prevSticky = $stickies.eq(i - 1);
+
+        $thisSticky.removeClass("fixed");
+
+        if ($prevSticky.length > 0 && $window.scrollTop() <= $thisSticky.data('originalPosition') - $thisSticky.data('originalHeight')) {
+
+          $prevSticky.removeClass("absolute").removeAttr("style");
+        }
+      }
+    });
+  };
+
+  return {
+    load: load
+  };
+})();
+
+$(function() {
+  stickyHeaders.load($(".followMeBar"));
+});
 </script>
 
 
