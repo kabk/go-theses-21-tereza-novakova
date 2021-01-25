@@ -183,7 +183,7 @@ z-index: 992;
 .fixed-right{
 	width: auto;
 	padding:0px 10px 0px 10px;
-	background-color: white;
+	background-color: #fafafa;;
 	bottom: 1vh;
     display: block;
     position: fixed;
@@ -198,7 +198,7 @@ z-index: 992;
 .fixed-left{
 	width: auto;
 	padding:0px 10px 0px 10px;
-	background-color: white;
+	background-color: #fafafa;;
 	bottom: 1vh;
     display: block;
     position: fixed;
@@ -212,7 +212,7 @@ z-index: 992;
 
 .fixed-cross{
 	width: auto;
-	background-color: white;
+	background-color: #fafafa;;
 	border-width: 1px;
 	border-style: solid;
 	border-radius: 2px;
