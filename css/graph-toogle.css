@@ -23,7 +23,7 @@
 button {
   font-size: 2.5em;
   width: 100vw;
-  background-color: white;
+  background-color: #fafafa;;
   color: black;
   box-decoration-break: clone;
   z-index: 10;
@@ -44,7 +44,7 @@ button:hover {
 
   border-radius: 0px;
   border-width: 1px;
-  color: white;
+  color: #fafafa;;
   max-width: 96vw;
 
 }
