@@ -159,56 +159,8 @@ to turmoil and the selfish pursuit of pleasure so deeply. Not escape nor one’s
     <!-- round self -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="js/circleText.js"></script>
+
     <script src="js/float_menu.js"></script>
-
-    <!-- round self -->
-    <script>
-    $(".circle-0").circleText({
-      glue: "",
-      turn: false,
-
-      radius: 120,
-      duration: 500,
-      repeat: 1,
-    });
-      $(".circle-1").circleText({
-        glue: "",
-        turn: true,
-        radius: 120,
-        duration: 60,
-        repeat: 1,
-
-      });
-
-      $(".circle-2").circleText({
-        glue: "",
-        turn: true,
-        radius: 150,
-        padding:0,
-        duration: 400,
-        repeat: 1,
-      });
-
-      $(".circle-3").circleText({
-        glue: "",
-        turn: true,
-        radius: 50,
-        padding:0,
-        duration: 30,
-        repeat: 1,
-      });
-
-      $(".circle-4").circleText({
-        glue: "",
-        turn: true,
-        radius: 500,
-        padding:0,
-        duration: 60,
-        repeat: 1,
-      });
-
-    </script>
-
   <!-- menu -->
   <script>
 
@@ -223,6 +175,54 @@ for(var i = 0, l = items.length; i < l; i++) {
 document.querySelector('.menu-button').onclick = function(e) {
    e.preventDefault(); document.querySelector('.circle').classList.toggle('open');
 }
+</script>
+
+<!-- round self -->
+<script>
+$(".circle-0").circleText({
+  glue: "",
+  turn: false,
+
+  radius: 120,
+  duration: 500,
+  repeat: 1,
+});
+  $(".circle-1").circleText({
+    glue: "",
+    turn: true,
+    radius: 120,
+    duration: 60,
+    repeat: 1,
+
+  });
+
+  $(".circle-2").circleText({
+    glue: "",
+    turn: true,
+    radius: 150,
+    padding:0,
+    duration: 400,
+    repeat: 1,
+  });
+
+  $(".circle-3").circleText({
+    glue: "",
+    turn: true,
+    radius: 50,
+    padding:0,
+    duration: 30,
+    repeat: 1,
+  });
+
+  $(".circle-4").circleText({
+    glue: "",
+    turn: true,
+    radius: 500,
+    padding:0,
+    duration: 60,
+    repeat: 1,
+  });
+
 </script>
 
 </body>
