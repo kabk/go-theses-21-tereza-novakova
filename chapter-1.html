@@ -630,61 +630,17 @@ from The Li Livres dou Tresor.
   <script src="js/isotope.pkgd.min.js"></script>
   <script src="js/code.js"></script>
   <script src="js/scroll-to-sources.js"></script>
+  <script src="js/float_menu.js"></script>
+
   <!-- round self -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="js/circleText.js"></script>
-  <script src="js/float_menu.js"></script>
+
 
   <script>
   $("body").fixedtoolbar({ tapToggle: false });</script>
 
-  <!-- round self -->
-  <script>
-  $(".circle-0").circleText({
-    glue: "",
-    turn: false,
 
-    radius: 300,
-    duration: 500,
-    repeat: 1,
-  });
-    $(".circle-1").circleText({
-      glue: "",
-      turn: true,
-      radius: 300,
-      duration: 60,
-      repeat: 1,
-
-    });
-
-    $(".circle-2").circleText({
-      glue: "",
-      turn: true,
-      radius: 400,
-      padding:0,
-      duration: 400,
-      repeat: 1,
-    });
-
-    $(".circle-3").circleText({
-      glue: "",
-      turn: true,
-      radius: 100,
-      padding:0,
-      duration: 30,
-      repeat: 1,
-    });
-
-    $(".circle-4").circleText({
-      glue: "",
-      turn: true,
-      radius: 200,
-      padding:0,
-      duration: 60,
-      repeat: 1,
-    });
-
-  </script>
 
 
   <!-- zoom in -->
@@ -701,19 +657,22 @@ from The Li Livres dou Tresor.
 
   <!-- menu -->
   <script>
-    var items = document.querySelectorAll('.circle a');
 
-    for (var i = 0, l = items.length; i < l; i++) {
-      items[i].style.left = (50 - 35 * Math.cos(-0.5 * Math.PI - 2 * (1 / l) * i * Math.PI)).toFixed(4) + "%";
+var items = document.querySelectorAll('.circle a');
 
-      items[i].style.top = (50 + 35 * Math.sin(-0.5 * Math.PI - 2 * (1 / l) * i * Math.PI)).toFixed(4) + "%";
-    }
+for(var i = 0, l = items.length; i < l; i++) {
+  items[i].style.left = (50 - 35*Math.cos(-0.5 * Math.PI - 2*(1/l)*i*Math.PI)).toFixed(4) + "%";
 
-    document.querySelector('.menu-button').onclick = function(e) {
-      e.preventDefault();
-      document.querySelector('.circle').classList.toggle('open');
-    }
-  </script>
+  items[i].style.top = (50 + 35*Math.sin(-0.5 * Math.PI - 2*(1/l)*i*Math.PI)).toFixed(4) + "%";
+}
+
+document.querySelector('.menu-button').onclick = function(e) {
+   e.preventDefault(); document.querySelector('.circle').classList.toggle('open');
+}
+// scroll to
+var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+
 
   <!-- collapsible -->
   <script>
