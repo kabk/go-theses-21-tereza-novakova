@@ -32,6 +32,7 @@ body {
 	margin-right:2vw;
   -webkit-text-size-adjust: 100%;
   -webkit-overflow-scrolling: touch;
+  background-color: #fafafa;
 }
 target-element { -webkit-text-size-adjust:80%; }
 
@@ -187,8 +188,8 @@ z-index: 992;
     display: block;
     position: fixed;
 		z-index: 600;
-		right:4vw;
-			border-radius: 4px;
+		right:4.7vw;
+			border-radius: 2px;
       border-width: 1px;
       border-style: solid;
       border-color:purple;
@@ -203,7 +204,7 @@ z-index: 992;
     position: fixed;
 		z-index: 600;
 		left:4vw;
-			border-radius: 4px;
+			border-radius: 2px;
       border-width: 1px;
       border-style: solid;
       border-color:purple;
@@ -220,7 +221,7 @@ z-index: 992;
     display: block;
     position: fixed;
 		z-index: 600;
-		right:4vw;
+		right:4.7vw;
 font-size: 0.9em;
 
 }
