@@ -232,3 +232,20 @@ font-size: 0.9em;
     padding-left:10px;
     font-size: 1.1em;
 }
+
+.followMeBar {
+  position: relative;
+  z-index: 1;
+}
+
+.followMeBar.fixed {
+  position: fixed;
+  width: 94%;
+  box-sizing: border-box;
+  z-index: 0;
+  top:5px;
+}
+
+.followMeBar.fixed.absolute {
+  position: absolute;
+}
