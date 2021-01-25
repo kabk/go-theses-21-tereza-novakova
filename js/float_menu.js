@@ -14,7 +14,7 @@ function makeNewPosition(){
 
     return [nh,nw];
 
-}
+};
 
 function animateDiv(){
     var newq = makeNewPosition();
@@ -24,8 +24,8 @@ function animateDiv(){
     $('.circular-menu').animate({ top: newq[0], left: newq[1] }, speed, function(){
       animateDiv();
     });
-
 };
+
 
 function calcSpeed(prev, next) {
 
@@ -40,4 +40,4 @@ function calcSpeed(prev, next) {
 
     return speed;
 
-}
+};
