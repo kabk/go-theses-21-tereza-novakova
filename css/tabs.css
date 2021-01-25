@@ -43,7 +43,7 @@
   position: absolute;
   top: 6vh;
   left: 0;
-  background: white;
+  background: #fafafa;;
   right: 0;
 
   /* padding: 30px; */
@@ -59,8 +59,8 @@
 }
 
 [type="radio"]:checked ~ label {
-  background: white;
-  border-bottom: 10px solid white;
+  background: #fafafa;;
+  border-bottom: 10px solid #fafafa;;
   z-index: 2;
 }
 [type="radio"]:checked ~ label ~ .content {
