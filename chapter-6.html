@@ -26,6 +26,18 @@ color: transparent;
   color: black;
 }
 
+#header {
+	background: #666;
+	padding: 3px;
+  padding: 10px 20px;
+  color: #fff;
+}
+#header.fixed {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
 </style>
 </head>
 
@@ -69,6 +81,10 @@ color: transparent;
 </div>
 </div>
 </article>
+<div id="header">
+  Home
+</div>
+
 <article>
   <div id="wrapper-a">
     <div id="sticky-a">
@@ -139,7 +155,26 @@ document.querySelector('.menu-button').onclick = function(e) {
 }
 </script>
 
+<!-- sticky -->
+<script>
+$(function(){
 
+	createSticky(jQuery("#header"));
+
+});
+
+function createSticky(sticky) {
+
+	if (typeof sticky !== "undefined") {
+
+		var	pos = sticky.offset().top,
+				win = jQuery(window);
+
+		win.on("scroll", function() {
+    		win.scrollTop() >= pos ? sticky.addClass("fixed") : sticky.removeClass("fixed");
+		});
+	}
+}</script>
 
 
 </body>
